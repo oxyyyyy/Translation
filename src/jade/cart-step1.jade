@@ -1,0 +1,163 @@
+doctype html
+html.no-js(lang="#{current_lang}")
+
+  include include/head_insider.jade
+
+  body(class="#{current_lang}").cart.cart-step1
+    .page-wrap
+      .top-message
+        .container
+          p
+            span.top-message-capt SPECIAL DISCOUNT ACTIVATED: 
+            |  Price savings of over 40% + 
+            span.shipping-bonus Free Shipping
+            |  on todays offer!
+      .block2
+        span.logo xxx-cream
+        | Anti-wrinkle non-surgery innnovation 
+        .right-block
+          span As seen on TV:
+          img(src='images/icon-2.png')
+      .clear
+      section.choose
+        .container.choose-container
+          ul.row
+            li.choose-item
+              a.choose-item-wrap(href='cart-reserved-starter.html')
+                .choose-item-top
+                  span.choose-item-toptext1 Delicate Renewal
+                  span.choose-item-title
+                    span.bold Starter
+                    |  Package
+                  span.choose-item-slogan Smooth small wrinkles
+                  ul.choose-item-advantages
+                    li Get your 2 month supply
+                    li Even the fine lines smoothed for 8 month
+                    li
+                      span.shipping-bonus Free Shipping
+                  .choose-item-click
+                    span.retail-price retail price: C$49.95
+                    span.price-wrap
+                      span.price €36.95
+                      span.per-bottle
+                        span.new-string per
+                        span.new-string bottle
+                    span.check-box select package
+                .choose-item-bottom
+                  .row
+                    .choose-item-bottom-left
+                      span.choose-item-bottom-title anti-wrinkle EFFECTIVENESS
+                      img(src='img/item1-stars.png', alt='rate-stars')
+                    .choose-item-bottom-right
+                      span.rate 2.5
+                  .row
+                    img.amazon-logo(src='img/amazon-logo.png', alt='amazon-logo')
+                    span.verified-by Ratings verified by
+            li.choose-item.active
+              a.choose-item-wrap(href='cart-reserved-pro.html')
+                .choose-item-top
+                  span.choose-item-toptext1 Youth Revive
+                  span.choose-item-title
+                    span.bold Pro Result 
+                    | Package
+                  span.choose-item-slogan Shield your skin from aging 
+                  span.whc “The best solution of rejuvenation!”
+                  ul.choose-item-advantages
+                    li Get your 6 month supply
+                    li Prevent the further aging for 16 month
+                    li
+                      span.shipping-bonus Free Shipping
+                  .choose-item-click
+                    span.retail-price retail price: C$49.95
+                    span.price-wrap
+                      span.price €29.95
+                      span.per-bottle
+                        span.new-string per
+                        span.new-string bottle
+                    span.check-box selected package
+                .choose-item-bottom
+                  .row
+                    .choose-item-bottom-left
+                      span.choose-item-bottom-title anti-wrinkle EFFECTIVENESS
+                      img(src='img/item2-stars.png', alt='rate-stars')
+                    .choose-item-bottom-right
+                      span.rate 4.8
+                  .row
+                    img.amazon-logo(src='img/amazon-logo.png', alt='amazon-logo')
+                    span.verified-by Ratings verified by
+            li.choose-item
+              a.choose-item-wrap(href='cart-reserved-slim.html')
+                .choose-item-top
+                  span.choose-item-toptext1 Young Again
+                  span.choose-item-title
+                    span.bold Age Off 
+                    | Package
+                  span.choose-item-slogan Get rid of dark circles
+                  ul.choose-item-advantages
+                    li Get your 4 month supply
+                    li Eliminate swelling for 10 month
+                    li
+                      span.shipping-bonus Free Shipping
+                  .choose-item-click
+                    span.retail-price retail price: C$49.95
+                    span.price-wrap
+                      span.price €32.95
+                      span.per-bottle
+                        span.new-string per
+                        span.new-string bottle
+                    span.check-box select package
+                .choose-item-bottom
+                  .row
+                    .choose-item-bottom-left
+                      span.choose-item-bottom-title anti-wrinkle EFFECTIVENESS
+                      img(src='img/item3-stars.png', alt='rate-stars')
+                    .choose-item-bottom-right
+                      span.rate 3.2
+                  .row
+                    img.amazon-logo(src='img/amazon-logo.png', alt='amazon-logo')
+                    span.verified-by Ratings verified by
+          a#step1-next.next-btn.unbind-clik(href='#')
+            | go to next step
+            span.new-string Shipping info
+      section.reviews
+        .container
+          .reviews-title.clearfix
+            p
+              span REAL STORIES.
+              |  REAL RESULTS
+        .reviews-video
+          .container
+            .row
+              .col-sm-4
+                video(controls='controls', poster='')
+                  source(src='video/video.mp4', type='video/mp4')
+                  | 							Тег video не поддерживается вашим браузером. 
+                  a(href='video/video.mp4') Скачайте видео
+                  | .
+              .col-sm-4
+                video(controls='controls', poster='')
+                  source(src='video/video.mp4', type='video/mp4')
+                  | 							Тег video не поддерживается вашим браузером. 
+                  a(href='video/video.mp4') Скачайте видео
+                  | .
+              .col-sm-4
+                video(controls='controls', poster='')
+                  source(src='video/video.mp4', type='video/mp4')
+                  | 							Тег video не поддерживается вашим браузером. 
+                  a(href='video/video.mp4') Скачайте видео
+                  | .
+
+      include include/footer_and_modals
+
+    //if lt IE 9
+      script(src='libs/respond/respond.min.js')
+    // Load Scripts Start
+    //
+      <script src="js/libs.js"></script>
+      <script src="js/common.js"></script>
+    script(src='js/jquery-3.2.1.min.js')
+    script(src='js/jquery.validate.min.js')
+    script(src='js/jquery.magnific-popup.min.js')
+    script(src='js/jquery.countdown.min.js')
+    script(src='js/main.js')
+    // Load Scripts End

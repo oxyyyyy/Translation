@@ -1,0 +1,254 @@
+{
+
+	"current_lang": "en",
+
+	"title": "Title",
+
+	"logo": {
+		"text": "XXX-CREAM",
+		"after_text": "Anti-wrinkle non-surgery innnovation"
+	},
+
+
+
+
+
+	"index": {
+
+		"warning_text": "WARNING! Because of all the media attention our stores are struggling to keep the stocks up. As of March 31 2017, we have a limited supply of products to ship within 24 hours.",
+
+		"header": {
+			"tv_text": "As seen on TV:",
+			"main_title": {
+				"title": "smooth and even skin as in youth",
+				"subtitle": "due to the high content of Macadamia nut oil"
+			},
+			"list": {
+				"point_1": "Removes 99% of crow's feet in 2 weeks",
+				"point_2": "Raises the impending eyelids due to the jojoba oil",
+				"point_3_before_br": "Makes the skin young and beautiful,",
+				"point_3_after_br": "penetrating deep layers of the epidermis",
+				"point_4": "Suspends the aging process",
+				"point_5": "The only cream with double effect"
+			},
+			"text_labels": {
+				"first_label": {
+					"line_1": "The secret",
+					"line_2": "of the world",
+					"line_3": "pop stars"
+				},
+				"second_label": {
+					"line_1": "Sales Hit",
+					"line_2": "in 2016"
+				}
+			}
+		},
+
+		"sections": {
+
+			"bestselling": {
+				"title": {
+					"line_1": "In 2016, XXX cream has become one of",
+					"line_2": "one of the best-selling anti-wrinkle agents around eyes",
+					"line_3": "and here's why:"
+				},
+				"list": {
+					"point_1": "Due to the unique natural consist and the use of the latest achievements in the field of cold extraction of biologically active substances of plants, XXX cream allows you to get rid of wrinkles around the eyes at home completely, as well as deep wrinkles on your face without laser, Botox injections and plastics.",
+					"point_2": "In 2016, XXX cream broke all records of sales and became the main mean in combating wrinkles in the US and Europe.",
+					"point_3": "XXX has a pronounced effect even after the first application – the wrinkles around eyes disappear right straight off. XXX is recommended to all women for correction of wrinkles aged 25 years and prevention of skin fading aged 20."
+				}
+			},
+
+			"effects": {
+				"title": "The main effects of the cream",
+				"list": {
+					"point_1": "Penetrating deeply into the skin, completely smoothes wrinkles",
+					"point_2": "Stimulates the production of collagen and elastin",
+					"point_3": "Removes both fine lines and deep wrinkles",
+					"point_4": "Fills the skin with vitamins and microelements",
+					"point_5": "Forms a protective layer on the skin and prevents its further aging",
+					"point_6": "Eliminates swelling and \"dark circles\" under the eyes",
+					"point_7": "Increases the elasticity and resilience of the skin, restores its structure",
+					"point_8": "Gives the skin a superb look"
+				}
+			},
+
+			"use": {
+				"title": "The maximum ease of use for an excellent result",
+				"list": {
+					"point_1": "Carefully remove makeup",
+					"point_2": "Apply a small amount of cream around the eyes",
+					"point_3": "Repeat daily before going to sleep",
+					"point_4": "Wrinkles will gradually disappear"
+				}
+			},
+
+			"course": {
+				"title": {
+					"regular": "The complete course of eliminating wrinkles around the eyes with XXX CREAM ",
+					"underline": "is only 14 days!"
+				},
+				"leave": {
+					"line_1": "We all know the time",
+					"line_2": "is ruthless. XXX helps to reduce",
+					"line_3": "its manifestations on your face.",
+					"line_4": "With ХХХ even at 50 it is possible",
+					"line_5": "to look as if you’re 30!"
+				},
+				"list": {
+					"point_1": {
+						"period": "1-3 days:",
+						"text": "The cream penetrates deep inside the skin. Increases the elasticity and resilience of skin."
+					},
+					"point_2": {
+						"period": "4-7 days:",
+						"text": "The thin lines and the smallest wrinkles disappear, the skin color improves, the \"dark circles\" under the eyes disappear."
+					},
+					"point_3": {
+						"period": "7-11 days:",
+						"text": "Only the deepest wrinkles around the eyes remain. The skin looks younger and healthier, and the eyes are more expressive."
+					},
+					"point_4": {
+						"period": "11-14 days:",
+						"text": "Up to 99% of wrinkles disappear. The skin becomes as beautiful as it was youth."
+					}
+				}
+			},
+
+			"exact_effects": {
+				"title": "What's the exact effect of XXX on wrinkles?",
+				"right_text": "Collagen and elastin fibers are responsible for elasticity and resilience of skin. With age, collagen is produced less, and the elastin fibers break down. As a result, it takes more time for skin to return to the previous condition after deformation. In turn, it causes wrinkles and sagging of the skin. Since the skin around eyes is more delicate and tender, but the supply of elastin fibers is limited – as a result wrinkles around eyes are first to appear.",
+				"bottom_text": "XXX increases the production of collagen and elastin to the level of 18-20 years, which leads to a rapid smoothing of wrinkles, elimination of \"crow's feet\" and skin rejuvenation. In addition, the cream normalizes the condition of blood vessels, removes slags and toxins, nourishes the skin with useful vitamins and microelements."
+			},
+
+			"consist": {
+				"title": {
+					"regular": "Detailed Cream Consist:",
+					"underline": "7 basic carefully balanced ingredients"
+				},
+				"list": {
+					"point_1": {
+						"title": "Macadamia nut tree oil:",
+						"text": "A few centuries ago, the oil of a unique tree from Australia was worth its weight in gold and was available only to very wealthy women, being their secret of youth and beauty. It is a powerful activator of the synthesis of subcutaneous collagen, which restores elastin fibers and supplies the skin with necessary building elements."
+					},
+					"point_2": {
+						"title": "Jojoba oil:",
+						"text": "Has a unique composition and is considered as basic for skin care. Due to the high content of vegetable wax, it stimulates metabolism and regeneration, strengthens the biological membranes of skin cells. It eliminates bags under the eyes and dark spots. It also normalizes the water-salt balance of the skin."
+					},
+					"point_3": {
+						"title": "Sage extract:",
+						"text": "The extract mainly synthesizes antioxidants. It displays toxins and slags; normalizes blood circulation; has a powerful moisturizing effect. Among all, it has a strong rejuvenating effect. In addition, it prevents the appearance of age spots."
+					},
+					"point_4": {
+						"title": "Chamomile extract:",
+						"text": "Due to the use of a special technology of cold extraction, in XXX cream all the useful properties of this plant known to many preserved in full measure. It soothes and protects sensitive skin, neutralizes harmful effects on the skin of UV rays, weathering and cold."
+					},
+					"point_5": {
+						"title": "Calendula extract:",
+						"text": "It improves blood circulation to the skin, general circulation and trophics of tissues. It protects the skin from dehydration and from harmful external influences. It increases the degree of self-defense of the skin from unfavorable factors."
+					},
+					"point_6": {
+						"title": "Panthenol:",
+						"text": "A well-known natural substance, which is the most powerful stimulator of skin regeneration. It promotes the renewal of skin cells, smooths wrinkles, returns youthful color and shine to the skin. It keeps moisture in the stratum corneum, preventing the appearance of new wrinkles."
+					},
+					"point_7": {
+						"title": "Aloe extract:",
+						"text": "Due to the components of anthraquinone glycosides and aloin, it deeply nourishes and vitaminizes the skin. It increases the smoothness and elasticity of the skin; slows down the aging process and triggers the recovery of natural hyaluronic acid production."
+					}
+				}
+			},
+
+			"experts": {
+				"title": "Experts on XXX cream",
+				"text": {
+					"p_1": "“To date, there is a lot of means for smoothing wrinkles. However, the XXX cream is striking in that it has an extremely high efficiency along with a safe all-natural composition. XXX cream is able to slow down the process of the emergence of wrinkles and completely remove them from the eyes and around the corners of the lips. Thanks to this cream, many people became younger without using Botox and plastics.",
+					"p_2": "The cream contains a high concentration of Macadamia and Jojoba oils, which, when combined, have a very powerful effect, penetrating deep inside the skin. They facilitate the synthesis of collagen and elastin, restore the strength and elasticity of the skin, in addition, effectively remove puffiness and excess water from the skin.",
+					"p_3": "In most cases, for quick skin rejuvenation, I used to recommend salon lifting, but today I recommend only XXX cream. It costs much less and can be used at home.”"
+				},
+				"expert_name": "Stein М., сosmetologist, doctor of higher category"
+			},
+
+			"benefits": {
+				"title": "Other benefits of the XXX",
+				"list": {
+					"point_1": "Has a gentle scent",
+					"point_2": {
+						"line_1": "Immediately absorbed",
+						"line_2": "without leaving a greasy shine"
+					},
+					"point_3": {
+						"line_1": "The effectiveness of the cream",
+						"line_2": "is confirmed by clinical tests"
+					},
+					"point_4": "Fully certified",
+					"point_5": "Unique patented formula",
+					"point_6": "Comprehensively affects the skin",
+					"point_7": {
+						"line_1": "The consist includes",
+						"line_2": "over 50 biologically active substances"
+					},
+					"point_8": {
+						"line_1": "Has no contraindications, side effects,",
+						"line_2": "is not addictive"
+					}
+				}
+			},
+
+			"clients": {
+				"title": "Our clients tell their stories",
+				"list": {
+					"client_1": {
+						"text": "Cool cream. Over the past year, I tried a lot of means in combating wrinkles. I liked the most XXX cream. There was no trace left from even little wrinkles and it took only a couple of weeks. Later I advised it to a friend of mine – she had the same result. With the help of XXX cream, the skin became young and beautiful, as it was before.",
+						"client_name": "Sarah, 41 y.o."
+					},
+					"client_2": {
+						"text": "I use XXX only for a week, but the results are already impressive! Many fine wrinkles are gone, and the deeper ones became less noticeable. I bought a cream more because of an interest, I could not even think that it is so effective. I already look much younger, but I have not even taken a full course yet. And I really like how it smells and applied. A wonderful cream. I recommend to all!.",
+						"client_name": "Hanna, 34 y.o."
+					},
+					"client_3": {
+						"text": "In the last year because of the frequent stresses in my personal life I’ve become noticeably worse looking – I aged literally before my eyes. I tried many things to regain my beauty and youth. Creams, whey, various beauty treatments and even traditional recipes. Of all that I tried, the greatest impression left the XXX cream. \"Crow's feet\" have gone completely, plus wrinkles on my forehead have disappeared, and I rather freshened up somehow in general. At this price, just a great cream.",
+						"client_name": "Veronica, 38 y.o."
+					},
+					"client_4": {
+						"text": "I work as a representative in a huge company, so for me the appearance is very important. I always used very expensive means for skin care, so when I found out about XXX cream, I did not pay much attention to it. But my friend insisted. As a result, I have been using only XXX for a year to combat wrinkles. And now I really look better. I would never have thought that inexpensive means would be so effective.",
+						"client_name": "Maria, 46 y.o."
+					}
+				}
+			},
+
+			"conclusion": {
+				"title": "With XXX cream you can return the best years of life and youth!",
+				"list": {
+					"point_1": "Men will compliment you again",
+					"point_2": "You will become sexually attractive anew",
+					"point_3": "You prevent the risk of betrayal of a loved one",
+					"point_4": "You will increase self-confidence",
+					"point_5": "You can delay the arrival of an old age"
+				},
+				"bottom_text": "According to statistics, 97% of men believe that the age of a woman doesn't matter if she looks well-groomed and young. And XXX cream will help you look exactly like this."
+			}
+
+		}
+	},
+
+
+
+	"cart-step1":{
+
+	},
+
+
+
+	"footer": {
+		"links": {
+			"link_1": "Terms and Conditions",
+			"link_2": "Privacy Policy",
+			"link_3": "Contact Us"
+		},
+		"warning": {
+			"large": "Warning",
+			"regular": "The statments made on our websites have not been evaluated by the FDA (U.S. Food & Drug Administration). This product is not intended to diagnose, cure or prevent any disease. The information provided by this website or this companay is not a substitute for a face-to-face consultation with your physician, and should not be construed as indvidial medical advice. The testimonials on this website are individial cases and do not guarantee that you will get the same results."
+		}
+	}
+
+}
