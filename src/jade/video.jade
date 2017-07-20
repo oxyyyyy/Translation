@@ -9,12 +9,7 @@ html(lang="#{current_lang}")
         img.img1(src='images/icon-1.png')
         | #{index.warning_text}
         img.img2(src='images/icon-41.png')
-      .block2
-        span.logo #{logo.text}
-        | #{logo.after_text}
-        .right-block
-          span #{tv_text}
-          img(src='images/icon-2.png')
+      include include/header_logo_and_tv_insider
       .block3
         span #{index.header.main_title.title}
         |  #{index.header.main_title.subtitle}
