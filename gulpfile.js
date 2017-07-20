@@ -42,6 +42,13 @@ gulp.task('jade', function () {
     .pipe(gulp.dest('src'));
 });
 
+gulp.task('scripts', function () {
+  return gulp.src('src/js/**/*.js')
+    .pipe(concat('bundle.libs.min.js'))
+    .pipe(uglify())
+    .pipe(gulp.dest('src/js'));
+});
+
 gulp.task('clean', function () {
   return del.sync('dist/**/*');
 });
@@ -97,8 +104,8 @@ gulp.task('build', ['clean', 'scripts', 'minCss', 'minCssLibs'], function () {
     .pipe(gulp.dest('dist/js'));
 
   var buildFonts = gulp.src([
-      'src/fonts/**/*.*'
-    ])
+    'src/fonts/**/*.*'
+  ])
     .pipe(gulp.dest('dist/fonts'));
 
   var buildHtmlPhp = gulp.src([

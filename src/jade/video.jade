@@ -13,7 +13,7 @@ html(lang="#{current_lang}")
         span.logo #{logo.text}
         | #{logo.after_text}
         .right-block
-          span #{index.header.tv_text}
+          span #{tv_text}
           img(src='images/icon-2.png')
       .block3
         span #{index.header.main_title.title}
@@ -262,12 +262,4 @@ html(lang="#{current_lang}")
 
       include include/footer_and_modals
 
-      // Load Scripts Start
-      script(src='js/jquery-3.2.1.min.js')
-      script(src='js/libs.js')
-      script(src='js/common.js')
-      script(src='js/jquery.validate.min.js')
-      script(src='js/jquery.magnific-popup.min.js')
-      script(src='js/jquery.countdown.min.js')
-      script(src='js/main.js')
-      // Load Scripts End
+    include include/scripts

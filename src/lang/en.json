@@ -8,7 +8,7 @@
 		"text": "XXX-CREAM",
 		"after_text": "Anti-wrinkle non-surgery innnovation"
 	},
-
+	"tv_text": "As seen on TV:",
 
 
 
@@ -18,7 +18,6 @@
 		"warning_text": "WARNING! Because of all the media attention our stores are struggling to keep the stocks up. As of March 31 2017, we have a limited supply of products to ship within 24 hours.",
 
 		"header": {
-			"tv_text": "As seen on TV:",
 			"main_title": {
 				"title": "smooth and even skin as in youth",
 				"subtitle": "due to the high content of Macadamia nut oil"
@@ -233,7 +232,77 @@
 
 
 
-	"cart-step1":{
+	"cart_step1":{
+
+		
+		"top_message": {
+			"regular_1": "SPECIAL DISCOUNT ACTIVATED: ",
+			"highlight_1": "Price savings of over 40% + ",
+			"regular_2": "Free Shipping ",
+			"highlight_2": "on todays offer!"
+		},
+		"price_text": "retail price:",
+		"per_bottle": {
+			"line_1": "per",
+			"line_2": "bottle"
+		},
+		"select_package": "select package",
+		"card_footer": {
+			"top_text": "anti-wrinkle EFFECTIVENESS",
+			"bottom_text": "Ratings verified by"
+		},
+		"next_step_button": {
+			"line_1": "go to next step",
+			"line_2": "Shipping info"
+		},
+		"section_real_stories_insider": {
+			"regular": "REAL STORIES.",
+			"bold": "REAL RESULTS"
+		},
+
+
+		"starter_card": {
+			"top_text": "Delicate Renewal",
+			"title": {
+				"bold": "Starter",
+				"regular": "Package"
+			},
+			"slogan": "Smooth small wrinkles",
+			"list": {
+				"point_1": "Get your 2 month supply",
+				"point_2": "Even the fine lines smoothed for 8 month",
+				"point_3": "Free Shipping"
+			}
+		},
+
+		"pro_card": {
+			"top_text": "Youth Revive",
+			"title": {
+				"bold": "Pro Result",
+				"regular": "Package"
+			},
+			"slogan": "Shield your skin from aging",
+			"whc": "“The best solution of rejuvenation!”",
+			"list": {
+				"point_1": "Get your 6 month supply",
+				"point_2": "Prevent the further aging for 16 month",
+				"point_3": "Free Shipping"
+			}
+		},
+
+		"slim_card": {
+			"top_text": "Young Again",
+			"title": {
+				"bold": "Age Off",
+				"regular": "Package"
+			},
+			"slogan": "Get rid of dark circles",
+			"list": {
+				"point_1": "Get your 4 month supply",
+				"point_2": "Eliminate swelling for 10 month",
+				"point_3": "Free Shipping"
+			}
+		}
 
 	},
 

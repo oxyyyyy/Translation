@@ -8,15 +8,15 @@ html.no-js(lang="#{current_lang}")
       .top-message
         .container
           p
-            span.top-message-capt SPECIAL DISCOUNT ACTIVATED: 
-            |  Price savings of over 40% + 
-            span.shipping-bonus Free Shipping
-            |  on todays offer!
+            span.top-message-capt #{cart_step1.top_message.regular_1}
+            | #{cart_step1.top_message.highlight_1}
+            span.shipping-bonus #{cart_step1.top_message.regular_2}
+            | #{cart_step1.top_message.highlight_2}
       .block2
-        span.logo xxx-cream
-        | Anti-wrinkle non-surgery innnovation 
+        span.logo #{logo.text}
+        | #{logo.after_text}
         .right-block
-          span As seen on TV:
+          span #{tv_text}
           img(src='images/icon-2.png')
       .clear
       section.choose
@@ -25,139 +25,103 @@ html.no-js(lang="#{current_lang}")
             li.choose-item
               a.choose-item-wrap(href='cart-reserved-starter.html')
                 .choose-item-top
-                  span.choose-item-toptext1 Delicate Renewal
+                  span.choose-item-toptext1 #{cart_step1.starter_card.top_text}
                   span.choose-item-title
-                    span.bold Starter
-                    |  Package
-                  span.choose-item-slogan Smooth small wrinkles
+                    span.bold #{cart_step1.starter_card.title.bold}
+                    |  #{cart_step1.starter_card.title.regular}
+                  span.choose-item-slogan #{cart_step1.starter_card.slogan}
                   ul.choose-item-advantages
-                    li Get your 2 month supply
-                    li Even the fine lines smoothed for 8 month
+                    li #{cart_step1.starter_card.list.point_1}
+                    li #{cart_step1.starter_card.list.point_2}
                     li
-                      span.shipping-bonus Free Shipping
+                      span.shipping-bonus #{cart_step1.starter_card.list.point_3}
                   .choose-item-click
-                    span.retail-price retail price: C$49.95
+                    span.retail-price #{cart_step1.price_text} C$49.95
                     span.price-wrap
                       span.price €36.95
                       span.per-bottle
-                        span.new-string per
-                        span.new-string bottle
-                    span.check-box select package
+                        span.new-string #{cart_step1.per_bottle.line_1}
+                        span.new-string #{cart_step1.per_bottle.line_2}
+                    span.check-box #{cart_step1.select_package}
                 .choose-item-bottom
                   .row
                     .choose-item-bottom-left
-                      span.choose-item-bottom-title anti-wrinkle EFFECTIVENESS
+                      span.choose-item-bottom-title #{cart_step1.card_footer.top_text}
                       img(src='img/item1-stars.png', alt='rate-stars')
                     .choose-item-bottom-right
                       span.rate 2.5
                   .row
                     img.amazon-logo(src='img/amazon-logo.png', alt='amazon-logo')
-                    span.verified-by Ratings verified by
+                    span.verified-by #{cart_step1.card_footer.bottom_text}
             li.choose-item.active
               a.choose-item-wrap(href='cart-reserved-pro.html')
                 .choose-item-top
-                  span.choose-item-toptext1 Youth Revive
+                  span.choose-item-toptext1 #{cart_step1.pro_card.top_text}
                   span.choose-item-title
-                    span.bold Pro Result 
-                    | Package
-                  span.choose-item-slogan Shield your skin from aging 
-                  span.whc “The best solution of rejuvenation!”
+                    span.bold #{cart_step1.pro_card.title.bold}
+                    |  #{cart_step1.pro_card.title.regular}
+                  span.choose-item-slogan #{cart_step1.pro_card.slogan}
+                  span.whc #{cart_step1.pro_card.whc}
                   ul.choose-item-advantages
-                    li Get your 6 month supply
-                    li Prevent the further aging for 16 month
+                    li #{cart_step1.pro_card.list.point_1}
+                    li #{cart_step1.pro_card.list.point_2}
                     li
-                      span.shipping-bonus Free Shipping
+                      span.shipping-bonus #{cart_step1.pro_card.list.point_3}
                   .choose-item-click
-                    span.retail-price retail price: C$49.95
+                    span.retail-price #{cart_step1.price_text} C$49.95
                     span.price-wrap
                       span.price €29.95
                       span.per-bottle
-                        span.new-string per
-                        span.new-string bottle
-                    span.check-box selected package
+                        span.new-string #{cart_step1.per_bottle.line_1}
+                        span.new-string #{cart_step1.per_bottle.line_2}
+                    span.check-box #{cart_step1.select_package}
                 .choose-item-bottom
                   .row
                     .choose-item-bottom-left
-                      span.choose-item-bottom-title anti-wrinkle EFFECTIVENESS
+                      span.choose-item-bottom-title #{cart_step1.card_footer.top_text}
                       img(src='img/item2-stars.png', alt='rate-stars')
                     .choose-item-bottom-right
                       span.rate 4.8
                   .row
                     img.amazon-logo(src='img/amazon-logo.png', alt='amazon-logo')
-                    span.verified-by Ratings verified by
+                    span.verified-by #{cart_step1.card_footer.bottom_text}
             li.choose-item
               a.choose-item-wrap(href='cart-reserved-slim.html')
                 .choose-item-top
-                  span.choose-item-toptext1 Young Again
+                  span.choose-item-toptext1 #{cart_step1.slim_card.top_text}
                   span.choose-item-title
-                    span.bold Age Off 
-                    | Package
-                  span.choose-item-slogan Get rid of dark circles
+                    span.bold #{cart_step1.slim_card.title.bold}
+                    |  #{cart_step1.slim_card.title.regular}
+                  span.choose-item-slogan #{cart_step1.slim_card.slogan}
                   ul.choose-item-advantages
-                    li Get your 4 month supply
-                    li Eliminate swelling for 10 month
+                    li #{cart_step1.slim_card.list.point_1}
+                    li #{cart_step1.slim_card.list.point_2}
                     li
-                      span.shipping-bonus Free Shipping
+                      span.shipping-bonus #{cart_step1.slim_card.list.point_3}
                   .choose-item-click
-                    span.retail-price retail price: C$49.95
+                    span.retail-price #{cart_step1.price_text} C$49.95
                     span.price-wrap
                       span.price €32.95
                       span.per-bottle
-                        span.new-string per
-                        span.new-string bottle
-                    span.check-box select package
+                        span.new-string #{cart_step1.per_bottle.line_1}
+                        span.new-string #{cart_step1.per_bottle.line_2}
+                    span.check-box #{cart_step1.select_package}
                 .choose-item-bottom
                   .row
                     .choose-item-bottom-left
-                      span.choose-item-bottom-title anti-wrinkle EFFECTIVENESS
+                      span.choose-item-bottom-title #{cart_step1.card_footer.top_text}
                       img(src='img/item3-stars.png', alt='rate-stars')
                     .choose-item-bottom-right
                       span.rate 3.2
                   .row
                     img.amazon-logo(src='img/amazon-logo.png', alt='amazon-logo')
-                    span.verified-by Ratings verified by
+                    span.verified-by #{cart_step1.card_footer.bottom_text}
           a#step1-next.next-btn.unbind-clik(href='#')
-            | go to next step
-            span.new-string Shipping info
-      section.reviews
-        .container
-          .reviews-title.clearfix
-            p
-              span REAL STORIES.
-              |  REAL RESULTS
-        .reviews-video
-          .container
-            .row
-              .col-sm-4
-                video(controls='controls', poster='')
-                  source(src='video/video.mp4', type='video/mp4')
-                  | 							Тег video не поддерживается вашим браузером. 
-                  a(href='video/video.mp4') Скачайте видео
-                  | .
-              .col-sm-4
-                video(controls='controls', poster='')
-                  source(src='video/video.mp4', type='video/mp4')
-                  | 							Тег video не поддерживается вашим браузером. 
-                  a(href='video/video.mp4') Скачайте видео
-                  | .
-              .col-sm-4
-                video(controls='controls', poster='')
-                  source(src='video/video.mp4', type='video/mp4')
-                  | 							Тег video не поддерживается вашим браузером. 
-                  a(href='video/video.mp4') Скачайте видео
-                  | .
+            | #{cart_step1.next_step_button.line_1}
+            span.new-string #{cart_step1.next_step_button.line_2}
+
+      include include/section_real_stories_insider.jade
 
       include include/footer_and_modals
 
-    //if lt IE 9
-      script(src='libs/respond/respond.min.js')
-    // Load Scripts Start
-    //
-      <script src="js/libs.js"></script>
-      <script src="js/common.js"></script>
-    script(src='js/jquery-3.2.1.min.js')
-    script(src='js/jquery.validate.min.js')
-    script(src='js/jquery.magnific-popup.min.js')
-    script(src='js/jquery.countdown.min.js')
-    script(src='js/main.js')
-    // Load Scripts End
+    include include/scripts
