@@ -10,6 +10,58 @@
 	},
 	"tv_text": "As seen on TV:",
 
+	"payment": {
+		"title": "final step",
+		"subtitle": "Payment Information",
+		"accept": "We accept:",
+		"placeholder": {
+			"firstname": "First Name",
+			"lastname": "Last Name",
+			"address": "Address",
+			"city": "City",
+			"region": "Area/Region",
+			"postalcode": "Postal Code",
+			"phone": "Phone"
+		},
+		"choose_payment": "Choose Payment Method",
+		"bit": "This is a 256-Bit Secure SSL Connection",
+		"button": {
+			"line_1": "Rush my order",
+			"line_2": "Shipping info"
+		},
+		"percent": "100% Secure and Safe Transactions"
+	},
+
+	"cart_selected_package": {
+		"remained": {
+			"regular_1": "Remained: ",
+			"italic_1": "7 packages",
+			"regular_2": "with instant discount + free shipping. Probability of selling all balances: ",
+			"italic_2": "highest"
+		},
+		"title": "YOUR PACKAGE RESERVED!",
+		"selected": "selected package",
+		"guarantee": {
+			"line_1": "30 days refund guarantee",
+			"line_2": "2 persons are ordering this package"
+		},
+		"certificate": {
+			"title": "You'll be pleased guaranteed. 100% refund if not.",
+			"text": "Our company is based on principles of safety and accuracy. Therefore every client is important to us. We’re willing to be trustworthy in your eyes by making our deeds speak louder than words. We guarantee that our products all 100% natural and passed all required clinical tests. Members of my family and I also customers of our service because we’re responsible for our assortment. So if you have any complaints or suggestions about our work or our service we’re ready to look into this and fix it right up to total refund of the cost.",
+			"author": {
+				"name": "Helena Mains",
+				"position": "Head of Quality Department"
+			}
+		}
+	},
+
+	"timer": {
+		"title": "You are lucky!",
+		"text": "You order at the best price in the market and save 60% compared to other stores.",
+		"left_time": "left time to pay"
+	},
+	"international_fee": "* International fee of up to 15% may apply.",
+	"checkout": "We're so confident that Garginia Bio will work for you that we are offering a 100% Satisfaction Guarantee! So, feel confident that you will lose weight!",
 
 
 
