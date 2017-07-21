@@ -288,10 +288,10 @@
 
 		
 		"top_message": {
-			"regular_1": "SPECIAL DISCOUNT ACTIVATED: ",
-			"highlight_1": "Price savings of over 40% + ",
-			"regular_2": "Free Shipping ",
-			"highlight_2": "on todays offer!"
+			"highlight_1": "SPECIAL DISCOUNT ACTIVATED: ",
+			"regular_1": "Price savings of over 40% + ",
+			"highlight_2": "Free Shipping ",
+			"regular_2": "on todays offer!"
 		},
 		"price_text": "retail price:",
 		"per_bottle": {
@@ -356,6 +356,61 @@
 			}
 		}
 
+	},
+
+	"cart_step2": {
+		"top_message": {
+			"highlight_1": "INSTANT DISCOUNT ACTIVATED: ",
+			"regular_1": "Recieve 2 free bottles and ",
+			"highlight_2": "Free Shipping ",
+			"regular_2": "with your order!"
+		},
+		"title": "your order summary",
+		"three_month_card": {
+			"title": {
+				"regular": "Buy 3 month supply, ",
+				"underline": "Get 2 for free!",
+				"best_value": "Best value!"
+			}
+		},
+		"two_month_card": {
+			"title": {
+				"regular": "Buy 2 month supply, ",
+				"underline": "Get 1 for free!"
+			}
+		},
+		"one_month_card": {
+			"title": {
+				"regular": "Buy 1 month supply"
+			},
+			"top_right_text": "Order now for free shipping!",
+			"center_text": "Get started for our lowest price ever!"
+		}
+	},
+
+	"page": {
+		"recommended": "Recommended!",
+		"top_right_text": "Order now for free shipping!"
+	},
+
+	"final_offer": {
+		"top_message": {
+			"highlight_1": "TODAYS SPEСIAL DISCOUNT ACTIVATED: ",
+			"regular_1": "Recieve ",
+			"regular_2": "1 free bottles with your order!"
+		},
+		"left_top_text": {
+			"regular": "Buy 1",
+			"top_index": "st",
+			"highlight": "get 2 for free."
+		},
+		"top_text": "Protect yourself from aging!",
+		"center_text": {
+			"line_1": "Renew",
+			"line_2": "your youth!"
+		},
+		"after_price": "total",
+		"under_price": "Get a free bottle for starting today!"
 	},
 
 

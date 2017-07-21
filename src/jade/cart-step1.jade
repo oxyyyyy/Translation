@@ -8,16 +8,11 @@ html.no-js(lang="#{current_lang}")
       .top-message
         .container
           p
-            span.top-message-capt #{cart_step1.top_message.regular_1}
-            | #{cart_step1.top_message.highlight_1}
-            span.shipping-bonus #{cart_step1.top_message.regular_2}
-            | #{cart_step1.top_message.highlight_2}
-      .block2
-        span.logo #{logo.text}
-        | #{logo.after_text}
-        .right-block
-          span #{tv_text}
-          img(src='images/icon-2.png')
+            span.top-message-capt #{cart_step1.top_message.highlight_1}
+            | #{cart_step1.top_message.regular_1}
+            span.shipping-bonus #{cart_step1.top_message.highlight_2}
+            | #{cart_step1.top_message.regular_2}
+      include include/header_logo_and_tv_insider
       .clear
       section.choose
         .container.choose-container
