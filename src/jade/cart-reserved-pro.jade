@@ -24,7 +24,7 @@ html.no-js(lang="#{current_lang}")
 								img.reserved-product-img(src='img/item2-girl-reserved.png', alt='pic')
 								p.order-summury-item-title
 									| #{cart_step1.pro_card.title.bold}
-									span.font-regular #{cart_step1.pro_card.title.regular}
+									span.font-regular  #{cart_step1.pro_card.title.regular}
 								p.order-summury-item-slogan #{cart_step1.pro_card.title.slogan}
 								ul.choose-item-advantages
 									li #{cart_step1.pro_card.list.point_1}
@@ -59,7 +59,7 @@ html.no-js(lang="#{current_lang}")
 										span#second 00
 							.bottoms
 								p.fee-info #{international_fee}
-								img.amazon-checkout(src='img/amazon-checkout.png', alt='pic')
+								img.amazon-checkout(src='img/lang/#{current_lang}/amazon-checkout.png', alt='pic')
 								p.fee-text
 									| #{checkout}
 
