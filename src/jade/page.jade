@@ -8,10 +8,10 @@ html.no-js(lang="#{current_lang}")
 			.top-message
 				.container
 					p
-            span.top-message-capt #{cart_step1.top_message.highlight_1}
-            | #{cart_step1.top_message.regular_1}
-            span.shipping-bonus #{cart_step1.top_message.highlight_2}
-            | #{cart_step1.top_message.regular_2}
+						span.top-message-capt #{cart_step1.top_message.highlight_1}
+						| #{cart_step1.top_message.regular_1}
+						span.shipping-bonus #{cart_step1.top_message.highlight_2}
+						| #{cart_step1.top_message.regular_2}
 			.container
 				include include/header_logo_and_tv_insider
 			section.step2.step3
@@ -33,7 +33,7 @@ html.no-js(lang="#{current_lang}")
 											span.font-regular  #{cart_step1.pro_card.title.regular}
 										.order-summury-item-checkbox checkbox
 										.step2-freeshiping-icon
-										img.save-img(src='img/save60.png', alt='pic')
+										img.save-img(src='img/lang/#{current_lang}/save60.png', alt='pic')
 										span.choose-item-click
 											span.retail-price #{cart_step1.price_text} C$49.95
 											span.price-wrap
@@ -50,7 +50,7 @@ html.no-js(lang="#{current_lang}")
 											span.font-regular  #{cart_step1.slim_card.title.regular}
 										.order-summury-item-checkbox checkbox
 										.step2-freeshiping-icon
-										img.save-img(src='img/save30.png', alt='pic')
+										img.save-img(src='img/lang/#{current_lang}/save30.png', alt='pic')
 										span.choose-item-click
 											span.retail-price #{cart_step1.price_text} C$49.95
 											span.price-wrap
@@ -66,7 +66,7 @@ html.no-js(lang="#{current_lang}")
 											span.font-regular  #{cart_step1.starter_card.title.regular}
 										.order-summury-item-checkbox checkbox
 										span.step2-freeshiping-icon #{page.top_right_text}
-										img.save-img(src='img/save10.png', alt='pic')
+										img.save-img(src='img/lang/#{current_lang}/save10.png', alt='pic')
 										span.choose-item-click
 											span.retail-price #{cart_step1.price_text} C$49.95
 											span.price-wrap

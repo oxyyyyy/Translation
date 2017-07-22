@@ -11,7 +11,7 @@ html.no-js(lang="#{current_lang}")
 						span.top-message-capt #{final_offer.top_message.highlight_1}
 						| #{final_offer.top_message.regular_1} 
 						span.bottle-bonus bottle-bonus
-						| #{final_offer.top_message.regular_2}
+						|  #{final_offer.top_message.regular_2}
 			.container
 				include include/header_logo_and_tv_insider
 			section.step2.step4
@@ -31,7 +31,7 @@ html.no-js(lang="#{current_lang}")
 									sup #{final_offer.left_top_text.top_index}
 									| , 
 									span.yellow #{final_offer.left_top_text.highlight}
-								img.final-offer(src='img/final-offer.png', alt='pic')
+								img.final-offer(src='img/lang/#{current_lang}/final-offer.png', alt='pic')
 								img.step4-girl(src='img/step4-girl.png', alt='pic')
 								img.bonus-bottle(src='img/bonus-bottle-img.png', alt='pic')
 								.content-right
@@ -46,7 +46,7 @@ html.no-js(lang="#{current_lang}")
 										p.price-slogan #{final_offer.under_price}
 							p.fee-info #{international_fee}
 							.order-summury-bottom
-								img.amazon-checkout(src='img/amazon-checkout.png', alt='pic')
+								img.amazon-checkout(src='img/lang/#{current_lang}/amazon-checkout.png', alt='pic')
 								p.fee-text
 									| #{checkout}
 
