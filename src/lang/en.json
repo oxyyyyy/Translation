@@ -35,7 +35,7 @@
 	"cart_selected_package": {
 		"remained": {
 			"regular_1": "Remained: ",
-			"italic_1": "7 packages",
+			"italic_1": " 7 packages",
 			"regular_2": "with instant discount + free shipping. Probability of selling all balances: ",
 			"italic_2": "highest"
 		},

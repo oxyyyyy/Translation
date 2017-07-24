@@ -294,6 +294,9 @@ position:relative;
 top:-11px;
 padding-right:10px;
 }
+.right-block span{
+	font-size: 14px;
+}
 .block3{
 text-transform:none;
 font-family:BJ;
@@ -319,6 +322,9 @@ letter-spacing:3px;
 }
 .fr .block3 span{
 	font-size: 31px;
+}
+.es .block3 span{
+	font-size: 33px;
 }
 .block5{
 float: right;
@@ -397,6 +403,10 @@ padding:10px 20px ;
 .fr .nagr span:first-child{
 	padding: 10px 15px;
 }
+.es .nagr span:first-child{
+	padding: 15px 10px;
+	font-size: 9px;
+}
 .nagr span:last-child{
 background:url(../img/images/background-25.png) no-repeat;
 padding:19px 20px ;
@@ -404,6 +414,11 @@ padding:19px 20px ;
 .fr .nagr span:last-child{
 	background: url(../img/images/background-24.png) no-repeat;
 	padding: 19px 17px;
+	font-size: 10px;
+}
+.es .nagr span:last-child{
+	background: url(../img/images/background-24.png) no-repeat;
+	padding: 19px 18px;
 	font-size: 10px;
 }
 .nagr span{
@@ -518,6 +533,9 @@ margin-bottom:25px;
 padding-left:75px;
 }
 .fr .block8 ul li{
+	font-size: 17px;
+}
+.es .block8 ul li{
 	font-size: 17px;
 }
 .block8 ul li:first-child{
@@ -640,6 +658,9 @@ line-height:73px;
 .fr .span4{
 	font-size: 29px;
 }
+.es .span4{
+	font-size: 31px;
+}
 .block13{
 background: url(../img/images/background-6.png) right top no-repeat;
 padding-top: 25px;
@@ -678,6 +699,9 @@ right: 420px;
 	font-size: 15px;
 	padding: 51px 25px 51px 0;
 	width: 382px;
+}
+.es .list-ico{
+	font-size: 15px;
 }
 .span5{
 font-size:33px;
@@ -719,6 +743,9 @@ margin:0 5px;
     padding-right: 90px;
     min-height: 97px;
 }
+.es .block14 .line-block div{
+	font-size: 14px;
+}
 .block14 .line-block div img{
     float: right;
     margin-left: 20px;
@@ -755,6 +782,9 @@ border-radius: 10px 10px 0 0;
 margin-left:-30px;
 width:955px;
 clear: both;
+}
+.es .span6{
+	font-size: 28px;
 }
 .block15{
     padding: 0 30px;
@@ -877,6 +907,9 @@ font-size:16px;
 .fr .span13{
 	font-size: 15px;
 }
+.es .span13{
+	font-size: 15px;
+}
 .block16{
 background:url(../img/images/background-11.png) right 91px no-repeat;
 position:relative;
@@ -956,6 +989,9 @@ font-size:36px;
 font-family:PB;
 text-transform:uppercase;
 }
+.es .span14{
+	font-size: 28px;
+}
 .span14 span{
 font-size:24px;
 font-family:PB;
@@ -1004,6 +1040,9 @@ right:-2px;
 }
 .fr .span16{
 	padding-right: 180px;
+}
+.es .span16{
+	padding-right: 170px;
 }
 .span17{
 color:#006eb9;
@@ -1129,6 +1168,9 @@ position: absolute;
 .block19 > div span{
 display:block;
 }
+.es .block19 > div span{
+font-size: 14px;
+}
 .span21{
 right:0px;
 margin-right:140px;
@@ -1197,6 +1239,10 @@ margin-right:5px;
 .fr .span22 .part4{
 	font-size: 12px;
 	margin-top: 7px;
+}
+.es .span22 .part4{
+	font-size: 12px;
+	margin-top: 12px;
 }
 .span22 .part3{
 position:relative;
@@ -1288,6 +1334,10 @@ font-size:16px;
 .fr .span26 .part9{
 	font-size: 13px;
 }
+.es .span26 .part9{
+	font-size: 10px;
+	margin-top: 2px;
+}
 .span26 .part0{
 position:relative;
 left:135px;
@@ -1297,6 +1347,10 @@ top:1px;
 }
 .fr .span26 .part0{
 	font-size: 15px;
+}
+.es .span26 .part0{
+	left: 145px;
+	top: 4px;
 }
 .span26-7{
     right: 0px;

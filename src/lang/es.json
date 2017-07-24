@@ -1,0 +1,434 @@
+{
+
+	"current_lang": "es",
+
+	"title": "Title",
+
+	"logo": {
+		"text": "XXX-CREMA",
+		"after_text": "Innovación antiarrugas no quirúrgica"
+	},
+	"tv_text": "Anunciado en televisión:",
+
+	"payment": {
+		"title": "Paso Final",
+		"subtitle": "Informacion del Pago",
+		"accept": "Aceptamos:",
+		"placeholder": {
+			"firstname": "Nombre",
+			"lastname": "Apellidos",
+			"address": "Direccion",
+			"city": "Ciudad",
+			"region": "Provincia",
+			"postalcode": "Codigo postal",
+			"phone": "Telefono"
+		},
+		"choose_payment": "Elige metodo de pago",
+		"bit": "Esta es una conexion 256-Bit Secure SSL",
+		"button": {
+			"line_1": "REALIZAR PEDIDO",
+			"line_2": "Consigue tu paquete"
+		},
+		"percent": "Transacciones 100% seguras"
+	},
+
+	"cart_selected_package": {
+		"remained": {
+			"regular_1": "Restantes: ",
+			"italic_1": " 7 paquetes",
+			"regular_2": "con descuento inmediato + envio gratis. Probabilidad de vender todas las existencias: ",
+			"italic_2": "Muy altas"
+		},
+		"title": "Tu pedido ya esta reservado!",
+		"selected": "Paquete seleccionado",
+		"guarantee": {
+			"line_1": "garantia de reembolso de 30 dias",
+			"line_2": {
+				"before_br": "Hay 2 personas realizando ",
+				"after_br": "este pedido"
+			}
+
+		},
+		"certificate": {
+			"title": "Quedaras completamente satisfecho. Si no, te devolvemos el 100% de tu dinero.",
+			"text": "Nuestra compania se basa en valores de seguridad y eficacia. Por esa razon, cada cliente es importante para nosotros. Queremos que confies en nosotros y que nuestros hechos hablen mas alto que nuestras palabras. Te garantizamos que todos nuestros productos son 100% naturales y han superado los controles clinicos necesarios. Yo misma y mi familia somos consumidores de estos mismos productos, porque creemos en lo que ofrecemos a nuestros clientes. Si tienes alguna sugerencia o comentario, no dudes en ponerte en contacto con nosotros, y te ayudaremos en todo o te devolveremos el dinero.",
+			"author": {
+				"name": "Sandra Welling,",
+				"position": "Jefa del Departamento de Calidad"
+			}
+		}
+	},
+
+	"timer": {
+		"title": "TIENES SUERTE!",
+		"text": "Tu pedido, al mejor precio del mercado, y ahorraras un 60% en comparacion a otros proveedores.",
+		"left_time": "Tiempo restante para pagar:"
+	},
+	"international_fee": "*Es posible que se aplique una tasa de envio internacional del 15%",
+	"checkout": "Tenemos tanta confianza en XXX–CREMA que te ofrecemos una garantia de satisfaccion 100%.",
+
+
+
+	"index": {
+
+		"warning_text": "¡ATENCIÓN! Debido a la gran repercusión que hemos tenido gracias a los medios de comunicación, estamos teniendo problemas de disponibilidad en nuestros productos. A fecha de 31 de marzo de 2017, contamos con una cantidad limitada de productos para enviar en 24 horas.",
+
+		"header": {
+			"main_title": {
+				"title": "una piel suave y firme como cuando eras joven",
+				"subtitle": "gracias al aceite de nueces de Macadamia"
+			},
+			"list": {
+				"point_1": "Elimina el 99% de las patas de gallo en solo 2 semanas",
+				"point_2": "Realza los párpados gracias al aceite de yoyoba",
+				"point_3_before_br": "Devuelve la juventud a tu piel, penetrando en ",
+				"point_3_after_br": "las capas más profundas de la epidermis",
+				"point_4": "Detiene el proceso de envejecimiento",
+				"point_5": "La única crema con efecto doble"
+			},
+			"text_labels": {
+				"first_label": {
+					"line_1": "El secreto",
+					"line_2": "de las presentadoras",
+					"line_3": "de televisión"
+				},
+				"second_label": {
+					"line_1": "Éxito de ventas",
+					"line_2": "de 2016"
+				}
+			}
+		},
+
+		"sections": {
+
+			"bestselling": {
+				"title": {
+					"line_1": "En 2016, la crema XXX se ha convertido en uno de",
+					"line_2": "los grandes agentes contra las arrugas de los ojos",
+					"line_3": "y aquí te explicamos por qué:"
+				},
+				"list": {
+					"point_1": "Debido a los componentes exclusivos y naturales y al uso de los últimos avances en el campo de la extracción en frío de sustancias biológicamente activas de plantas, la crema XXX te permite eliminar esas arrugas de los ojos por completo y en tu casa, así como otras arrugas de tu cara, sin tener que recurrir al láser, inyecciones de botox y plásticos.",
+					"point_2": "En 2016, la crema XXX ha batido los récords de ventas y se ha convertido en el principal medio para combatir las arrugas en Estados Unidos y Europa.",
+					"point_3": "XXX tiene un pronunciado efecto incluso después de la primera aplicación -  las arrugas de los ojos desaparecen al instante. XXX es recomendable para todo tipo de mujeres que quieran corregir sus arrugas a partir de los 25 años y las que quieran prevenir el deterioro de la piel a partir de los 20."
+				}
+			},
+
+			"effects": {
+				"title": "Los efectos principales de esta crema",
+				"list": {
+					"point_1": "Elimina completamente las arrugas al penetrar en las capas más profundas de la piel",
+					"point_2": "Estimula la producción de colágeno y elastina",
+					"point_3": "Elimina las arrugas más suaves y las más profundas",
+					"point_4": "Rellena la piel con vitaminas y microelementos",
+					"point_5": "Forma una capa protectiva en la piel y previene el evejecimiento",
+					"point_6": "Elimina las marcas y bolsas de los ojos",
+					"point_7": "Incrementa la elasticidad y resistencia de la piel, recuperando su estructura natural",
+					"point_8": "Le da a la piel una apariencia superior"
+				}
+			},
+
+			"use": {
+				"title": "Aplícala fácilmente para obtener los mejores resultados",
+				"list": {
+					"point_1": "Quita cuidadosamente el maquillaje",
+					"point_2": "Aplica una pequeña cantidad de crema alrededor de los ojos",
+					"point_3": "Repite este proceso a diario antes de ir a dormir",
+					"point_4": "Las arrugas desaparecerán gradualmente"
+				}
+			},
+
+			"course": {
+				"title": {
+					"regular": "¡El tratamiento completo para eliminar las arrugas de los ojos con la crema XXX ",
+					"underline": "es de solo 14 días!"
+				},
+				"leave": {
+					"line_1": "Todos sabemos que el tiempo es",
+					"line_2": "implacable. XXX te ayuda a reducir",
+					"line_3": "esas manifestaciones de la edad",
+					"line_4": "en tu cara. ¡Con XXX, podrás",
+					"line_5": "aparentar 30 años cuando tengas 50!"
+				},
+				"list": {
+					"point_1": {
+						"period": "Días 1-3:",
+						"text": "La crema prenetra profundamente en la piel, aumentando su elasticidad y resistencia."
+					},
+					"point_2": {
+						"period": "Días 4-7:",
+						"text": "Las líneas más finas y las arrugas más pequeñas desaparecen, el color de la pi el mejora y los círculos oscuros bajo los ojos desaparecen."
+					},
+					"point_3": {
+						"period": "Días 7-11:",
+						"text": "Ya solo quedan las arrugas más profundas alrededor de los ojos. La piel parece mucho más joven y saludable, y los ojos más expresivos."
+					},
+					"point_4": {
+						"period": "Días 11-14:",
+						"text": "Desaparecen hasta el 99% de las arrugas y la piel se torna tan bonita como cuando eras joven."
+					}
+				}
+			},
+
+			"exact_effects": {
+				"title": "¿Cuáles son los efectos concretos de XXX sobre las arrugas?",
+				"right_text": "Las fibras de colágeno y elastina son las responsables de la elasticidad y la resistencia de la piel. Con la edad, se produce menos colágeno y las fibras de elastina se rompen. Como resultados, a la piel le lleva más tiempo volver a sus condiciones previas antes de la deformación. Esto es lo que causa que la piel se acabe arrugando. Dado que la piel alrededor de los ojos es más delicada y tierna, y las fibras de elastina son limitadas, las arrugas en esta zona son las primeras en aparecer.",
+				"bottom_text": "XXX incrementa la producción de colágeno y elastina a niveles de 18 o 20 años, lo que lleva a un rápido suavizamiento de las arrugas, la eliminación de las patas de gallo y un rejuvenecimiento completo de la piel. Además, la crema regula la circulación sanguínea, elimina las toxinas y nutre a la piel con vitaminas y microelementos esenciales."
+			},
+
+			"consist": {
+				"title": {
+					"regular": "Composición detalla de la crema:",
+					"underline": "7 ingredientes básicos"
+				},
+				"list": {
+					"point_1": {
+						"title": "Aceite de nuez de Macadamia:",
+						"text": "Hace ya unos siglos, el aceite de un árbol único de Australia valía su peso en oro y solo estaba al alcance de mujeres ricas, suponiendo su mayor secreto de su belleza y juventud. Es un activador potente para la síntesis del colágeno subcutáneo, que restaura las fibras de elastina y provee a la piel con nutrientes esenciales."
+					},
+					"point_2": {
+						"title": "Aceite de yoyoba:",
+						"text": "Tiene una composición única y está considerado como un básico para el cuidado de la piel. Su alto contenido en cera vegetal estimula el metabolismo y la regeneración de las membranas de piel. Además, elimina las bolsas de los ojos y los puntos negros, y regula la hidratación de la piel."
+					},
+					"point_3": {
+						"title": "Extracto de hojas de salvia:",
+						"text": "El extracto de las hojas sintetiza los antioxidantes. A la vez, es eficaz contra las toxinas y los desechos, regula la circulación de la sangre y tiene un efecto suavizante. Pero también tiene un efecto rejuvenecedor y previene la aparición de manchas en la piel."
+					},
+					"point_4": {
+						"title": "Extracto de camomila:",
+						"text": "Gracias al uso de una tecnología especial de extracción en frío, la crema XXX reúne todas las propiedades útiles de esta planta y las conserva en toda su esencia. Suaviza y protege la piel, a la vez que neutraliza los efectos más dañinos de los rayos UV, el frío y las inclemencias temporales."
+					},
+					"point_5": {
+						"title": "Extracto de caléndula:",
+						"text": "Mejora la circulación de la sangre en la piel, la circulación general y la atrofia de los tejidos. Protege a la piel de la deshidratación y de influencias dañinas externas, y aumenta la protección de la piel sobre factores externos."
+					},
+					"point_6": {
+						"title": "Pantenol:",
+						"text": "Es una sustancia muy conocida, que es el factor estimulante de la regeneración de la piel. Además, promueve la renovación de las células cutáneas, suaviza las arrugas, devuelve el color de la juventud y el brillo a la piel. Además de suavizar el contorno de los ojos, también previene la aparición de nuevas arrugas."
+					},
+					"point_7": {
+						"title": "Extracto de aloe:",
+						"text": "Gracias a los glucósidos de antraquinona y aloina, nutre y aporta vitaminas a la piel, lo que aumenta su suavidad y elasticidad y reduce el proceso de envejecimiento, a la vez que impulsa la recuperación del ácido hialurónico."
+					}
+				}
+			},
+
+			"experts": {
+				"title": "Lo que dicen los expertos sobre la crema XXX",
+				"text": {
+					"p_1": "“A día de hoy, hay un montón de productos para combatir la presencia de arrugas en la piel. Pero XXX es la crema que más y mejores resultados ha obtenido, debido a su gran eficacia junto a la composición de ingredientes naturales. La crema XXX es capaz de reducir el proceso de aparición de arrugas de los ojos y también de las esquinas de los labios. Gracias a esta crema, mucha gente consigue rejuvenecer unos años sin tener que recurrir a cirugías o a inyecciones de botox.",
+					"p_2": "La crema contiene una alta concentración de aceites de nueces de Macadamia y yoyoba que, combinados, consiguen un efecto potente y penetran en lo más profundo de la piel. Facilitan la síntesis del colágeno y la elastina y restauran la fuerza y elasticidad de la piel. Además, también resulta eficaz para eliminar las manchas y el exceso de agua de la piel.",
+					"p_3": "En la mayoría de los casos, a los pacientes que querían rejuvenecer su piel les recomendaba un lifting, pero ahora solo recomiendo la crema XXX, ya que es mucho más barata y se puede usar en casa.”"
+				},
+				"expert_name": "M. Alesanco, Dermatólogo"
+			},
+
+			"benefits": {
+				"title": "Otros beneficios de la crema XXX",
+				"list": {
+					"point_1": "Tiene un aroma agradable",
+					"point_2": {
+						"line_1": "Se absorbe inmediatamente",
+						"line_2": "sin dejar un rastro grasiento"
+					},
+					"point_3": {
+						"line_1": "La eficacia de la crema está clínicamente",
+						"line_2": "comprobada con pruebas en laboratorios"
+					},
+					"point_4": "Certificada clínicamente",
+					"point_5": "Fórmula única patentada",
+					"point_6": "Incide en todas las capas de piel",
+					"point_7": {
+						"line_1": "Contiene más de",
+						"line_2": "50 sustancias biológicamente activas"
+					},
+					"point_8": {
+						"line_1": "No tiene contraindicaciones, ni produce efectos secundarios",
+						"line_2": "no es adictiva"
+					}
+				}
+			},
+
+			"clients": {
+				"title": "Lo que dicen nuestros clientes",
+				"list": {
+					"client_1": {
+						"text": "“Un sueño hecho realidad. El año pasado probé un montón de métodos para combatir las arrugas, pero el que más me gustó fue la crema XXX. No queda ni rastro de las arrugas más pequeñas y eso solo en dos semanas. Se la recomendé a una amiga y le dio el mismo resultado. Con la ayuda de la crema XXX la piel se vuelve joven y saludable, como era antes”",
+						"client_name": "Sara, 41 años"
+					},
+					"client_2": {
+						"text": "“He usado XXX durante una semana, pero los resultados ya fueron impresionantes. Muchas de las arrugas más pequeñas se habían quitado y las más profundas estaban desapareciendo. Había comprado esta crema más por curiosidad que por confianza, y no pensaba que fuera a resultar tan eficaz. Ya me he quitado unos cuantos años, y eso que aún no he terminado el tratamiento. Además, me encanta su olor y lo fácil de aplicar que es. ¡Una crema magnífica, que recomiendo a todo el mundo!”",
+						"client_name": "Ana, 34 años"
+					},
+					"client_3": {
+						"text": "“El año pasado, debido al estrés en el trabajo, mi aspecto empeoró. Se puede decir que envejecí rápidamente unos cuantos años, y me puse a probar cremas y productos para recuperar mi aspecto anterior. Ninguno de ellos funcionó hasta que probé la crema XXX. Ahora ya no tengo patas de gallo y las arrugas de la frente también han desaparecido. Me he vuelto a quitar los años que había ganado, y todo por un precio increíble.”",
+						"client_name": "Virginia, 34 años"
+					},
+					"client_4": {
+						"text": "“Trabajo como representante para una gran empresa, y el aspecto físico es muy importante. Siempre había usado cremas muy caras para la piel, y cuando descubrí XXX no le presté mucha atención. Una amiga la había probado y me insistió en que era genial, así que la acabé probando y aquí estoy, un año después, y sigo usándola. Realmente estoy mucho mejor, y nadie me echa los años que tengo. Nunca hubiera creído que, por este precio, podía conseguir estos resultados.”",
+						"client_name": "María, 46 años"
+					}
+				}
+			},
+
+			"conclusion": {
+				"title": "¡Con la crema XXX puedes volver a los mejores años de tu vida!",
+				"list": {
+					"point_1": "Los hombres te volverán a piropear",
+					"point_2": "Volverás a sentirte sexualmente atractiva ",
+					"point_3": "No tendrás miedo de que tu marido sea infiel",
+					"point_4": "Aumentará tu seguridad y confianza",
+					"point_5": "Retrasarás la aparición de los efectos de la edad"
+				},
+				"bottom_text": "Según las estadísticas, el 97% de los hombres creen que la edad de las mujeres no importa si se muestran juveniles y coquetas. Y la crema XXX te ayuda a conseguir esto."
+			}
+
+		}
+	},
+
+
+
+	"cart_step1":{
+
+		
+		"top_message": {
+			"highlight_1": "Descuento especial activado: ",
+			"regular_1": "Ahorro en los precios de más de un 40% + ",
+			"highlight_2": "Envío gratuito ",
+			"regular_2": "solo por hoy!"
+		},
+		"price_text": "precio de venta:",
+		"per_bottle": {
+			"line_1": "por",
+			"line_2": "botella"
+		},
+		"select_package": "Paquete seleccionado",
+		"card_footer": {
+			"top_text": "Tu piel más suave y delicada",
+			"bottom_text": "Puntuaciones ofrecidas por"
+		},
+		"next_step_button": {
+			"line_1": "Ir al siguiente paso",
+			"line_2": "Información de compra"
+		},
+		"section_real_stories_insider": {
+			"regular": "Historias reales.",
+			"bold": "resultados reales"
+		},
+
+
+		"starter_card": {
+			"top_text": "Renovación delicada",
+			"title": {
+				"bold": "Starter",
+				"regular": "Paquete"
+			},
+			"slogan": "Suaviza las arrugas más pequeñas",
+			"list": {
+				"point_1": "Consigue suministro para dos meses",
+				"point_2": "Suavizarás incluso las arrugas más pequeñas durante 8 meses",
+				"point_3": "Envío gratuito"
+			}
+		},
+
+		"pro_card": {
+			"top_text": "Revive tu juventud",
+			"title": {
+				"bold": "Pro Result",
+				"regular": "Paquete"
+			},
+			"slogan": "Protege tu piel contra el envejecimiento",
+			"whc": "“¡La mejor solución para rejuvenecer!”",
+			"list": {
+				"point_1": "Consigue suministro para 6 meses",
+				"point_2": "Prevé el envejecimiento para los próximos 16 meses",
+				"point_3": "Envío gratuito"
+			}
+		},
+
+		"slim_card": {
+			"top_text": "Otra vez joven",
+			"title": {
+				"bold": "Age Off",
+				"regular": "Paquete"
+			},
+			"slogan": "Elimina las manchas oscuras",
+			"list": {
+				"point_1": "Consigue suministro para 4 meses",
+				"point_2": "Olvídate de las arrugas durante 10 meses",
+				"point_3": "Envío gratuito"
+			}
+		}
+
+	},
+
+	"cart_step2": {
+		"top_message": {
+			"highlight_1": "Descuento inmediato activado: ",
+			"regular_1": "Recibe 2 botellas gratis y ",
+			"highlight_2": "envío gratuito ",
+			"regular_2": "con tu pedido!"
+		},
+		"title": "EL RESUMEN DE TU PEDIDO",
+		"three_month_card": {
+			"title": {
+				"regular": "Compra suministro para 3 meses, ",
+				"underline": "Llévate 2 gratis!",
+				"best_value": "La mejor opción!"
+			}
+		},
+		"two_month_card": {
+			"title": {
+				"regular": "Compra suministro para 2 meses, ",
+				"underline": "Llévate 1 gratis!"
+			}
+		},
+		"one_month_card": {
+			"title": {
+				"regular": "Compra suministro para 1 mes"
+			},
+			"top_right_text": "Pídelo ya para envío gratis!",
+			"center_text": "Comienza con nuestro paquete más barato!"
+		}
+	},
+
+	"page": {
+		"recommended": "Recommended!",
+		"top_right_text": "Order now for free shipping!"
+	},
+
+	"final_offer": {
+		"top_message": {
+			"highlight_1": "TODAYS SPEСIAL DISCOUNT ACTIVATED: ",
+			"regular_1": "Recieve ",
+			"regular_2": "1 free bottles with your order!"
+		},
+		"left_top_text": {
+			"regular": "Buy 1",
+			"top_index": "st",
+			"highlight": "get 2 for free."
+		},
+		"top_text": "Protect yourself from aging!",
+		"center_text": {
+			"line_1": "Renew",
+			"line_2": "your youth!"
+		},
+		"after_price": "total",
+		"under_price": "Get a free bottle for starting today!"
+	},
+
+
+
+	"footer": {
+		"links": {
+			"link_1": "Términos y condiciones",
+			"link_2": "Política de privacidad",
+			"link_3": "Contacto"
+		},
+		"warning": {
+			"large": "Atención",
+			"regular": "Los términos establecidos en nuestras páginas web no han sido evaluados por la FDA (Administración Estadounidense de Comidas y Drogas). Este producto no está destinado a diagnosticar, curar o prevenir ninguna enfermedad. La información ofrecida en esta página web o por esta empresa no equivale a una consulta en persona con su médico, y no debe ser considerada como un consejo médico individual. Los testimonios de esta página web son casos individuales que no garantizan que usted obtenga los mismos resultados."
+		}
+	}
+
+}
