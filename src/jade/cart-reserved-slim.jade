@@ -40,7 +40,7 @@ html.no-js(lang="#{current_lang}")
 											span.new-string #{cart_step1.per_bottle.line_1}
 								.reserved-product-bottom
 									span.refund #{cart_selected_package.guarantee.line_1}
-									span.ordering #{cart_selected_package.guarantee.line_2}
+									span.ordering #{cart_selected_package.guarantee.line_2.before_br}<br>#{cart_selected_package.guarantee.line_2.after_br}
 							.guarantee
 								.guarantee-wrap
 									p.guarantee-text-title #{cart_selected_package.certificate.title}

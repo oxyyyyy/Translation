@@ -1,0 +1,434 @@
+{
+
+	"current_lang": "fr",
+
+	"title": "Title",
+
+	"logo": {
+		"text": "XXX-CREAM",
+		"after_text": "L'innovation anti-rides sans chirurgie"
+	},
+	"tv_text": "Comme vu à la télé:",
+
+	"payment": {
+		"title": "DERNIERE ETAPE",
+		"subtitle": "Informations de paiement",
+		"accept": "Nous acceptons:",
+		"placeholder": {
+			"firstname": "Prenom",
+			"lastname": "Nom",
+			"address": "Adresse",
+			"city": "Ville",
+			"region": "Region",
+			"postalcode": "Code postal",
+			"phone": "Telephone"
+		},
+		"choose_payment": "Mode de paiement",
+		"bit": "Ceci est une Connection securisee SSL  256-Bit",
+		"button": {
+			"line_1": "Envoyer ma commande",
+			"line_2": "Profitez de frais de port offerts"
+		},
+		"percent": "transaction 100% sure et securise"
+	},
+
+	"cart_selected_package": {
+		"remained": {
+			"regular_1": "Rappel: ",
+			"italic_1": "7 paquets",
+			"regular_2": "restant avec remise instantanee + frais de port offerts. Probabilite d’epuisement: ",
+			"italic_2": "MAXIMUM"
+		},
+		"title": "VOTRE OFFRE EST RESERVEE!",
+		"selected": "offre selectionnee",
+		"guarantee": {
+			"line_1": "30 jours de garantie satisfait ou rembourse",
+			"line_2": {
+				"before_br": "2 personnes sont en train ",
+				"after_br": "de commander cette offre"
+			}
+		},
+		"certificate": {
+			"title": "Remboursement de 100% du prix. Vous serez heureuse.",
+			"text": "Nous prenons soin de nos clients. Et nous vous apportons le meilleur de notre experience. Nos produits sont tous naturels et soigneusement equilibres. Nous soumettons nos inventions a des tests cliniques et nous sommes surs de vous apporter la meilleure qualite. Si vous n'etes pas satisfait de notre service, nous vous garantissons un remboursement de 100%. Nous sommes la avec vous. Nous faisons de notre mieux obtenir votre confiance.",
+			"author": {
+				"name": "Sandra Welling,",
+				"position": "Responsable de la direction qualitative"
+			}
+		}
+	},
+
+	"timer": {
+		"title": "VOUS ETES CHANCEUX!",
+		"text": "Vous commandez au meilleur prix du marche et economisez 60% par rapport aux autres point de ventes.",
+		"left_time": "Temps restant pour payer:"
+	},
+	"international_fee": "*A l’international des frais allant jusqu’a 15% peuvent etre appliques.",
+	"checkout": "Nous sommes tellement confiants de l’efficacite de XXX–CREME que nous vous offrons une garantie 100% ou rembourse!",
+
+
+
+	"index": {
+
+		"warning_text": "ATTENTION! à cause de l’attention que les médias nous portent, nous connaissons des difficultés d’approvisionnement. A partir du 31 Mars 2017, nous n’avons que des quantités limitées disponibles sous 24h.",
+
+		"header": {
+			"main_title": {
+				"title": "lisse et égalise la peau comme si elle était jeunes",
+				"subtitle": "en raison de la teneur élevée en huile de noix de Macadamia"
+			},
+			"list": {
+				"point_1": "Supprime 99% des pattes d’oie en 2 semaines",
+				"point_2": "Élève les paupières tombantes grâce à l'huile de jojoba",
+				"point_3_before_br": "Rend la peau jeune et belle en pénétrant les",
+				"point_3_after_br": "couches profondes de l'épiderme",
+				"point_4": "Suspend le processus de vieillissement",
+				"point_5": "La seule crème à double effet "
+			},
+			"text_labels": {
+				"first_label": {
+					"line_1": "Le secret",
+					"line_2": "des pop-stars",
+					"line_3": "mondiales"
+				},
+				"second_label": {
+					"line_1": "Record de",
+					"line_2": "ventes en 2016"
+				}
+			}
+		},
+
+		"sections": {
+
+			"bestselling": {
+				"title": {
+					"line_1": "En 2016, la crème XXX est devenue l'un",
+					"line_2": "des agents anti-rides les plus vendus autour des yeux",
+					"line_3": "et voici pourquoi:"
+				},
+				"list": {
+					"point_1": "En raison de sa consistance naturelle unique et de l'utilisation des dernières techniques dans le domaine de l'extraction à froid de substances biologiquement actives de plantes, la crème XXX vous permet de vous débarrasser des rides autour des yeux, ainsi que des rides profondes sur votre visage Sans laser, injections de Botox ou chirurgie plastique.",
+					"point_2": "En 2016, la crème XXX a brisé tous les records de ventes et est devenue le principal atout dans la lutte contre les rides aux États-Unis et en Europe.",
+					"point_3": "XXX a un effet prononcé même dès la première application - les rides autour des yeux disparaissent instantanément. XXX est recommandé à toutes les femmes pour la correction des rides âgées de 25 ans et la prévention de la décoloration de la peau dès 20 ans."
+				}
+			},
+
+			"effects": {
+				"title": "Principaux effets de la crème",
+				"list": {
+					"point_1": "Pénètre profondément la peau, lisse complètement les rides",
+					"point_2": "Stimule la production de collagène et d'élastine",
+					"point_3": "Supprime les lignes fines et les rides profondes",
+					"point_4": "Remplit la peau avec des vitamines et des microéléments",
+					"point_5": "Forme une couche protectrice sur la peau et empêche son vieillissement ultérieur",
+					"point_6": "Élimine le gonflement et les \"cernes\" sous les yeux",
+					"point_7": "Augmente l'élasticité et la résilience de la peau, rétablit sa structure",
+					"point_8": "Donne à la peau un magnifique aspect"
+				}
+			},
+
+			"use": {
+				"title": "Une facilité d'utilisation maximale pour un excellent résultat",
+				"list": {
+					"point_1": "Supprimer soigneusement le maquillage",
+					"point_2": "Appliquer une petite quantité de crème autour des yeux",
+					"point_3": "Répétez tous les jours avant de vous coucher",
+					"point_4": "Les rides vont progressivement disparaître"
+				}
+			},
+
+			"course": {
+				"title": {
+					"regular": "L'élimination complète des rides autour des yeux avec la crème XXX ",
+					"underline": "ne dure que 14 jours!"
+				},
+				"leave": {
+					"line_1": "Nous savons tous que le temps est",
+					"line_2": "impitoyable. XXX aide à réduire ses",
+					"line_3": "effets sur votre visage. Avec ХХХ",
+					"line_4": "même à 50 ans il est possible de",
+					"line_5": "sembler en avoir 30!"
+				},
+				"list": {
+					"point_1": {
+						"period": "1-3 jours:",
+						"text": "La crème pénètre profondément dans la peau. Augmente l'élasticité et la résilience de la peau."
+					},
+					"point_2": {
+						"period": "4-7 jours:",
+						"text": "Les lignes minces et les plus petites rides disparaissent, la couleur de la peau s'améliore, les \"cernes\" sous les yeux disparaissent."
+					},
+					"point_3": {
+						"period": "7-11 jours:",
+						"text": "Seules les rides profondes autour des yeux restent. La peau est plus jeune et plus saine, et les yeux sont plus expressifs."
+					},
+					"point_4": {
+						"period": "11-14 jours:",
+						"text": "Jusqu'à 99% des rides disparaissent. La peau devient aussi belle que jeune."
+					}
+				}
+			},
+
+			"exact_effects": {
+				"title": "Quel est l'effet exact de XXX sur les rides?",
+				"right_text": "Les fibres de collagène et d'élastine sont responsables de l'élasticité et de la résilience de la peau. Avec l'âge, le collagène est moins produit et les fibres d'élastine se décomposent. En conséquence, il faut plus de temps pour que la peau revienne à sa condition initiale après déformation. Ce qui provoque des rides et une affaissement global de la peau. Étant donné que la peau autour des yeux est plus délicate et plus malléable, et que l'apport en fibres d'élastine est limité, les rides apparaissent souvent autour des yeux.",
+				"bottom_text": "XXX augmente la production de collagène et d'élastine à un niveau correspond à celui d’une personne de 18-20 ans, ce qui conduit à un lissage rapide des rides, à l'élimination des «pattes d’oie» et au rajeunissement de la peau. En outre, la crème stabilise l'état des vaisseaux sanguins, élimine les impuretés et les toxines, nourrit la peau avec des vitamines utiles et des microéléments."
+			},
+
+			"consist": {
+				"title": {
+					"regular": "Composition détaillée de la crème",
+					"underline": "7 ingrédients basiques soigneusement équilibrés"
+				},
+				"list": {
+					"point_1": {
+						"title": "Huile de noix de macadamia:",
+						"text": "Il y a quelques siècles, l'huile de cet arbre unique d'Australie valait son poids en or et n'était accessible que pour les femmes riches, c’était leur secret de jeunesse et de beauté. C'est un activateur puissant de la synthèse du collagène sous-cutané, qui rétablit les fibres d'élastine et fournit à la peau les éléments de reconstruction nécessaires."
+					},
+					"point_2": {
+						"title": "Huile de jojoba:",
+						"text": "A une composition unique et est considéré comme élément la base de tous les soins de la peau. En raison de la teneur élevée en cire végétale, elle stimule le métabolisme et la régénération, renforce les membranes biologiques des cellules de la peau. Elle élimine les poches sous les yeux ainsi que les taches sombres. Elle stabilise également l'équilibre eau-sel de la peau."
+					},
+					"point_3": {
+						"title": "Extrait de feuilles de sauge:",
+						"text": "L'extrait de sauge synthétise les antioxydants. Il combat les toxines et les impuretés, stabilise la circulation sanguine, a un puissant effet hydratant. Par dessus tout, dispose  d’un fort effet rajeunissant. En outre, il empêche l'apparition de tâches de vieillesse."
+					},
+					"point_4": {
+						"title": "Extrait de camomille:",
+						"text": "En raison de l'utilisation d'une technologie spéciale d'extraction à froid, dans la crème XXX, toutes les propriétés utiles de cette plante sont totalement conservées. Elle apaise et protège la peau sensible, neutralise les effets néfastes sur la peau des rayons UV, les intempéries et le froid."
+					},
+					"point_5": {
+						"title": "Extrait de calendula:",
+						"text": "Il améliore la circulation sanguine de la peau, la circulation générale et les réseaux trophiques. Il protège la peau de la déshydratation et des influences extérieures nuisibles de l’environnement. Il augmente le pouvoir défensif de la peau contre les facteurs défavorables."
+					},
+					"point_6": {
+						"title": "Panthénol:",
+						"text": "Il améliore la circulation sanguine de la peau, la circulation générale et les réseaux trophiques. Il protège la peau de la déshydratation et des influences extérieures nuisibles de l’environnement. Il augmente le pouvoir défensif de la peau contre les facteurs défavorables."
+					},
+					"point_7": {
+						"title": "Extrait d'aloès:",
+						"text": "En raison des composants des glycosides d'anthraquinone et de l'aloin, il nourrit et apporte des vitamines en profondeur à la peau. Il augmente la douceur et l'élasticité de la peau; Ralentit le processus de vieillissement et déclenche la réactivation de la production naturelle d'acide hyaluronique."
+					}
+				}
+			},
+
+			"experts": {
+				"title": "Ce que les experts disent",
+				"text": {
+					"p_1": "\"À ce jour, il existe beaucoup de moyens de lisser les rides. Cependant, la crème XXX est frappante en ce sens qu'elle a une efficacité extrêmement élevée tout en ayant une composition sûre et naturel. La crème XXX est capable de ralentir le processus d'émergence des rides et de les retirer complètement des yeux et autour des coins des lèvres. Grâce à cette crème, beaucoup de gens sont redevenus jeunes sans utiliser de Botox ou de chirurgie plastique.",
+					"p_2": "La crème contient une concentration élevée d'huiles de macadamia et de jojoba qui, combinées, ont un effet très puissant, pénétrant profondément à l'intérieur de la peau. Ils facilitent la synthèse du collagène et de l'élastine, rétablissent la résistance et l'élasticité de la peau, éliminent efficacement les poches et l'excès d'eau de la peau.",
+					"p_3": "Dans la plupart des cas, pour un rajeunissement rapide de la peau, je recommandais un lifting, mais aujourd'hui je ne recommande plus que la crème XXX. Cela coûte beaucoup moins cher et peut être utilisé à la maison.\""
+				},
+				"expert_name": "Pierre М., dermatologue"
+			},
+
+			"benefits": {
+				"title": "Les avantages supplémentaires de la crème XXX",
+				"list": {
+					"point_1": "A un doux parfum",
+					"point_2": {
+						"line_1": "Est immédiatement absorbé",
+						"line_2": "sans laisser de brillance grasse"
+					},
+					"point_3": {
+						"line_1": "L'efficacité de la crème",
+						"line_2": "est confirmée par des essais cliniques"
+					},
+					"point_4": "Entièrement certifié",
+					"point_5": "Formule unique brevetée",
+					"point_6": "Effets bénéfiques sur la peau",
+					"point_7": {
+						"line_1": "Comprend",
+						"line_2": "plus de 50 substances biologiquement actives"
+					},
+					"point_8": {
+						"line_1": "Aucune contre-indication, effets secondaires",
+						"line_2": "n'est pas addictif"
+					}
+				}
+			},
+
+			"clients": {
+				"title": "Nos clients racontent leur histoires",
+				"list": {
+					"client_1": {
+						"text": "« Superbe crème. L’année dernière, j'ai essayé beaucoup de moyens pour lutter contre les rides et j'ai préféré la crème XXX. Il ne restait plus aucune trace de rides et cela n’a pris que quelques semaines. Plus tard, je l'ai conseillé à une de mes amis - même résultat. Avec l'aide de la crème XXX, la peau devient jeune et belle, comme elle était avant »",
+						"client_name": "Sarah, 41 ans"
+					},
+					"client_2": {
+						"text": "« J’ai utilisé XXX seulement pendant une semaine, mais les résultats sont déjà impressionnants! Beaucoup de ridules fines ont disparu, et les plus profonds sont devenus moins perceptibles. J'ai acheté une crème par curiosité, je ne pouvais même pas imaginer qu'elle était si efficace. J'ai déjà l'air beaucoup plus jeune, mais je n'ai même pas suivi le programme complet. Et j'aime vraiment comment son odeur. Une crème merveilleuse. Je la recommande à tous et à toutes! »",
+						"client_name": "Anna, 34 ans"
+					},
+					"client_3": {
+						"text": "« L’année dernière en raison des contraintes fréquentes dans ma vie personnelle, je suis devenu nettement plus ridée: je semblais de plus en plus vieille à la vue mes yeux. J'ai essayé beaucoup de choses pour retrouver ma beauté et ma jeunesse. Crèmes, lactosérum, divers traitements de beauté et même des recettes traditionnelles. De tout ce que j'ai essayé, la plus grande impression m’a été laissé par la XXX crème. \"Les pattes d’oie\" ont complètement disparus, les rides sur le front ont disparu, et ma peau a plutôt bien régénéré en général. À ce prix, c’est simplement une des meilleures crèmes. »",
+						"client_name": "Mathilde, 38 ans."
+					},
+					"client_4": {
+						"text": "« Je travaille comme représentant dans une grande entreprise, donc pour moi, l'apparence est très importante. J'ai toujours utilisé des moyens très coûteux pour les soins de la peau, alors quand j'ai découvert la crème XXX, je n'y ai pas accordé beaucoup d'attention. Mais mon ami a insisté. Du coup, je n’ai utilisé que XXX toute l’année lutter contre les rides. Et maintenant, j'ai vraiment l'air plus jeune. Je n'aurais jamais cru qu’un moyen si peu coûteux serait si efficace. »",
+						"client_name": "Marie, 46 ans"
+					}
+				}
+			},
+
+			"conclusion": {
+				"title": "Avec la crème XXX, vous pouvez retrouver les meilleures années de votre vie et de votre jeunesse!",
+				"list": {
+					"point_1": "Les hommes vous complimenteront à nouveau",
+					"point_2": "Vous devenez de nouveau attirante",
+					"point_3": "Vous limitez le risque de trahison d'un être cher",
+					"point_4": "Vous augmenterez votre confiance en vous",
+					"point_5": "Vous pouvez retarder l'arrivée de la vieillesse"
+				},
+				"bottom_text": "Selon les statistiques, 97% des hommes croient que l'âge d'une femme n'a pas d'importance si elle a l'air bien soignée et jeune. Et la crème XXX vous aidera à ressembler exactement à cela."
+			}
+
+		}
+	},
+
+
+
+	"cart_step1":{
+
+		
+		"top_message": {
+			"highlight_1": "Promotion spéciale activée: ",
+			"regular_1": "Plus de 40% d'économie + ",
+			"highlight_2": "la livraison est offerte ",
+			"regular_2": "aujourd'hui sur nos offres!"
+		},
+		"price_text": "prix de vente:",
+		"per_bottle": {
+			"line_1": "par",
+			"line_2": "flacon"
+		},
+		"select_package": "offre sélectionnée",
+		"card_footer": {
+			"top_text": "Votre peau est lisse et délicate",
+			"bottom_text": "évaluation certifiée par"
+		},
+		"next_step_button": {
+			"line_1": "Passez à l’étape suivant",
+			"line_2": "Informations de livraison"
+		},
+		"section_real_stories_insider": {
+			"regular": "Vraies histoires.",
+			"bold": "vrais résultats"
+		},
+
+
+		"starter_card": {
+			"top_text": "Point de départ",
+			"title": {
+				"bold": "Peau",
+				"regular": "Délicate"
+			},
+			"slogan": "Commencez le programme",
+			"list": {
+				"point_1": "Obtenez vos 2 mois d’approvisionnement",
+				"point_2": "Les plus petites rides seront lissées pour 8 mois",
+				"point_3": "Livraison gratuite"
+			}
+		},
+
+		"pro_card": {
+			"top_text": "Meilleur effet",
+			"title": {
+				"bold": "Lissage",
+				"regular": "Maximum"
+			},
+			"slogan": "Combattez votre âge",
+			"whc": "\"La meilleure solution de rajeunissement!\"",
+			"list": {
+				"point_1": "Obtenez vos 6 mois d’approvisionnement",
+				"point_2": "Les plus petites rides seront lissées pour 16 mois",
+				"point_3": "Livraison gratuite"
+			}
+		},
+
+		"slim_card": {
+			"top_text": "Continuez le combat",
+			"title": {
+				"bold": "Rajeunit",
+				"regular": ""
+			},
+			"slogan": "Votre soin quotidien",
+			"list": {
+				"point_1": "Obtenez vos 4 mois d’approvisionnement",
+				"point_2": "Nettoie et resserre les pores pour 10 mois",
+				"point_3": "Livraison gratuite"
+			}
+		}
+
+	},
+
+	"cart_step2": {
+		"top_message": {
+			"highlight_1": "Promotion temporaire activée: ",
+			"regular_1": "Recevez 2 flacons et ",
+			"highlight_2": "la livraison est offerte ",
+			"regular_2": "pour votre commande!"
+		},
+		"title": "RESUME DE VOTRE COMMANDE",
+		"three_month_card": {
+			"title": {
+				"regular": "Achetez 3 mois de stock, ",
+				"underline": "Profitez de 2 offerts!",
+				"best_value": "Meilleure offre!"
+			}
+		},
+		"two_month_card": {
+			"title": {
+				"regular": "Achetez 2 mois de stock, ",
+				"underline": "Profitez de 1 offerts!"
+			}
+		},
+		"one_month_card": {
+			"title": {
+				"regular": "Achetez 1 mois de stock"
+			},
+			"top_right_text": "Commandez maintenant pour une livraison gratuite!",
+			"center_text": "Commencez avec notre plus bas prix!"
+		}
+	},
+
+	"page": {
+		"recommended": "Recommandé!",
+		"top_right_text": "Commandez maintenant pour la livraison gratuite!"
+	},
+
+	"final_offer": {
+		"top_message": {
+			"highlight_1": "Promotion spéciale du jour: ",
+			"regular_1": "Recevez ",
+			"regular_2": "un flacon gratuit avec votre commande!"
+		},
+		"left_top_text": {
+			"regular": "Achetez 1",
+			"top_index": "",
+			"highlight": "",
+			"highlight_br": "recevez-en 2 gratuitement!"
+		},
+		"top_text": "Protégez-vous du vieillissement!",
+		"center_text": {
+			"line_1": "Renouvelez",
+			"line_2": "votre jeunesse!"
+		},
+		"after_price": "total",
+		"under_price": "Obtenez un flacon gratuitement aujourd’hui!"
+	},
+
+
+
+	"footer": {
+		"links": {
+			"link_1": "Termes et conditions",
+			"link_2": "Confidentialité",
+			"link_3": "Contact"
+		},
+		"warning": {
+			"large": "Avertissement",
+			"regular": "Les déclarations faites sur nos sites n’ont pas été approuvé par la FDA (U.S. Food & Drug Administration). Ce produit n’a pas pour vocation de diagnostiquer, soigner ou prévenir une quelconque maladie. Les informations fournies par ce site ou cette compagnie ne substituent en aucun cas une consultation médicale et ne doivent pas être interprétée comme telle. Les témoignages présent sur ce site sont des cas isolés et ne vous garantissent pas la même expérience.same results."
+		}
+	}
+
+}

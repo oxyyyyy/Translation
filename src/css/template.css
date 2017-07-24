@@ -304,6 +304,9 @@ text-align:right;
 clear:both;
 margin-top:20px;
 }
+.fr .block3 {
+	font-size: 31px;
+}
 .block3 span{
 font-size:50px;
 color:#0069b3;
@@ -313,6 +316,9 @@ display:block;
 text-align:center;
 line-height:50px;
 letter-spacing:3px;
+}
+.fr .block3 span{
+	font-size: 31px;
 }
 .block5{
 float: right;
@@ -357,12 +363,18 @@ float: left;
     display: table;
     position: absolute;
 }
+.fr .block4 ul{
+	font-size: 14px;
+}
 .block4 li{
     display: block;
     padding: 5px 0 6px 38px;
     background: url(../img/images/icon-42.png) 3px 1px no-repeat;
     margin-bottom: 22px;
     padding-right: 16px;
+}
+.fr .block4 li{
+	padding-top: 7px;
 }
 .block4 li:last-child{
 border:2px solid #d5135d;
@@ -382,9 +394,17 @@ margin-left:4px;
 background:url(../img/images/background-24.png) no-repeat;
 padding:10px 20px ;
 }
+.fr .nagr span:first-child{
+	padding: 10px 15px;
+}
 .nagr span:last-child{
 background:url(../img/images/background-25.png) no-repeat;
 padding:19px 20px ;
+}
+.fr .nagr span:last-child{
+	background: url(../img/images/background-24.png) no-repeat;
+	padding: 19px 17px;
+	font-size: 10px;
 }
 .nagr span{
 display:inline-block;
@@ -496,6 +516,9 @@ color:#232f48;
 font-size:18px;
 margin-bottom:25px;
 padding-left:75px;
+}
+.fr .block8 ul li{
+	font-size: 17px;
 }
 .block8 ul li:first-child{
 background:url(../img/images/icon-13.png) left top no-repeat;
@@ -614,6 +637,9 @@ font-family:PB;
 text-transform:uppercase;
 line-height:73px;
 }
+.fr .span4{
+	font-size: 29px;
+}
 .block13{
 background: url(../img/images/background-6.png) right top no-repeat;
 padding-top: 25px;
@@ -647,6 +673,11 @@ padding-right:25px;
 position:absolute;
 bottom: 25px;
 right: 420px;
+}
+.fr .list-ico {
+	font-size: 15px;
+	padding: 51px 25px 51px 0;
+	width: 382px;
 }
 .span5{
 font-size:33px;
@@ -757,6 +788,9 @@ margin-right: 40px;
 margin-top: 10px;
 line-height: 24px;
 }
+.fr .span8 {
+	font-size: 15px;
+}
 .span32{
 color:#d5135d;
 font-size:18px;
@@ -822,6 +856,9 @@ text-align:left;
 font-size:36px;
 margin-top:25px;
 }
+.fr .span12 {
+	font-size: 24px;
+}
 .span12 span{
 color: #d5135d;
 font-family: BJ;
@@ -830,9 +867,15 @@ text-align: center;
 font-size: 34px;
 padding-left: 10px;
 }
+.fr .span12 span{
+	font-size: 28px;
+}
 .span13{
 color:#232f48;
 font-size:16px;
+}
+.fr .span13{
+	font-size: 15px;
 }
 .block16{
 background:url(../img/images/background-11.png) right 91px no-repeat;
@@ -925,6 +968,9 @@ font-size:18px;
 margin-top:25px;
 float:left;
 }
+.fr .span15{
+	font-size: 17px;
+}
 .block17 .line-block{
 display:block;
 width:100px;
@@ -955,6 +1001,9 @@ right:-2px;
     box-sizing: border-box;
     right: 0;
     text-align: right;
+}
+.fr .span16{
+	padding-right: 180px;
 }
 .span17{
 color:#006eb9;
@@ -1035,6 +1084,9 @@ color:#fff;
 font-size:50px;
 position: relative;
 }
+.fr .block19 > div.span20{
+	font-size: 50px;
+}
 .block19{
 background: url(../img/images/background-13.jpg) no-repeat;
     max-width: 980px;
@@ -1071,6 +1123,9 @@ color:#fff;
 font-size:18px;
 position: absolute;
 }
+.fr .block19 > div{
+	font-size: 19px;
+}
 .block19 > div span{
 display:block;
 }
@@ -1089,6 +1144,9 @@ transform: rotate(0grad);
 padding-left:32px;
 font-size:16px;
 padding-top:7px;
+}
+.fr .span21 .part2{
+	font-size: 15px;
 }
 .span21 .part2:before{
 background:url(../img/images/background-15.png) no-repeat;
@@ -1136,6 +1194,10 @@ text-align:right;
 padding-right:10px;
 margin-right:5px;
 }
+.fr .span22 .part4{
+	font-size: 12px;
+	margin-top: 7px;
+}
 .span22 .part3{
 position:relative;
 left:-35px;
@@ -1181,6 +1243,10 @@ font-size:16px;
 padding-top:7px;
 transform: rotate(2grad);
 }
+.fr .span25 .part8{
+	font-size: 13px;
+	padding-top: 10px;
+}
 .span25 .part8:before{
 background:url(../img/images/background-20.png) no-repeat;
 content: "";
@@ -1219,12 +1285,18 @@ padding-right:10px;
 margin-right:5px;
 font-size:16px;
 }
+.fr .span26 .part9{
+	font-size: 13px;
+}
 .span26 .part0{
 position:relative;
 left:135px;
 margin-bottom:4px;
 font-size:16px;
 top:1px;
+}
+.fr .span26 .part0{
+	font-size: 15px;
 }
 .span26-7{
     right: 0px;
@@ -1259,6 +1331,9 @@ min-height:450px;
     text-transform: uppercase;
     max-width: 635px;
     float: right;
+}
+.fr .span27{
+	font-size: 22px;
 }
 .span28 img{
 position:absolute;

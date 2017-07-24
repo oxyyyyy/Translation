@@ -43,7 +43,11 @@
 		"selected": "selected package",
 		"guarantee": {
 			"line_1": "30 days refund guarantee",
-			"line_2": "2 persons are ordering this package"
+			"line_2": {
+				"before_br": "2 persons are ordering this package",
+				"after_br": ""
+			}
+
 		},
 		"certificate": {
 			"title": "You'll be pleased guaranteed. 100% refund if not.",
