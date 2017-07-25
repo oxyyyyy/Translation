@@ -995,6 +995,9 @@ padding-top:0px;
 	color: #5d6062;
 	margin-bottom: 3px
 }
+.es .step2 .order-summury-item-title {
+	font-size: 17px;
+}
 .step2 .order-summury-item-title .red {
 	font: 20px RobotoCondensedBold, sans-serif;
 	color: #9a1918;
@@ -1088,6 +1091,9 @@ padding-top:0px;
 .fr .step2 .order-summury-item .choose-item-click .retail-price:after {
 	right: 42px;
 }
+.es .step2 .order-summury-item .choose-item-click .retail-price:after {
+	right: 27px;
+}
 .step2 .order-summury-item .check-box {
 	position: absolute;
     bottom: -1px;
@@ -1100,6 +1106,9 @@ padding-top:0px;
 	padding: 11px 70px 0 0;
 	background: url(../img/select-package-bg.png) 3px 2px no-repeat;
 	text-align: right
+}
+.es .step2 .order-summury-item .check-box {
+	padding: 11px 45px 0 0;
 }
 .step2 .order-summury-item.active .check-box {
 	position: absolute;
@@ -1114,6 +1123,10 @@ padding-top:0px;
 }
 .fr .step2 .order-summury-item.active .check-box {
 	font-size: 17px;
+}
+.es .step2 .order-summury-item.active .check-box {
+	font-size: 16px;
+	padding: 11px 43px 0 0;
 }
 .step2 .order-summury-item .check-box:after {
 	position: absolute;
@@ -1179,6 +1192,9 @@ padding-top:0px;
 }
 .fr .step2 .order-summury-item:nth-child(1).active>.order-summury-item-link>.best-value {
 	padding: 2px 0 0 86px;
+}
+.es .step2 .order-summury-item:nth-child(1).active>.order-summury-item-link>.best-value {
+	padding: 2px 0 0 76px;
 }
 .bottoms{
 position: absolute;
@@ -1828,6 +1844,10 @@ margin-bottom: 52px;
 	font-size: 16px;
 	padding-top: 9px;
 }
+.es .step4 .order-summury .satisfaction-guarantee {
+	font-size: 15px;
+	padding: 18px 0 0 9px;
+}
 .step4 .order-summury .satisfaction-guarantee sup{
 	text-transform: lowercase;
 }
@@ -1846,8 +1866,20 @@ margin-bottom: 52px;
     right: 83px;
     width: 175px;
 	height: 73px;
-	background: url("../img/final-offer.png") no-repeat;
+	background: url("../img/lang/en/final-offer.png") no-repeat;
 	z-index: 2
+}
+.fr .step4 .order-summury .final-offer {
+	background: url("../img/lang/fr/final-offer.png") no-repeat;
+}
+.es .step4 .order-summury .final-offer {
+	background: url("../img/lang/es/final-offer.png") no-repeat;
+}
+.pl .step4 .order-summury .final-offer {
+	background: url("../img/lang/pl/final-offer.png") no-repeat;
+}
+.it .step4 .order-summury .final-offer {
+	background: url("../img/lang/it/final-offer.png") no-repeat;
 }
 .step4 .order-summury .step4-girl {
 	position: absolute;
@@ -1880,6 +1912,9 @@ margin-bottom: 52px;
 }
 .fr .step4 .order-summury .price-wrap {
 	padding-right: 36px;
+}
+.es .step4 .order-summury .price-wrap {
+	padding-right: 42px;
 }
 .step4 .order-summury .price-wrap .price {
 	display: inline-block;

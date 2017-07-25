@@ -393,28 +393,28 @@
 	},
 
 	"page": {
-		"recommended": "Recommended!",
-		"top_right_text": "Order now for free shipping!"
+		"recommended": "Recomendado!",
+		"top_right_text": "Pídelo ya para envío gratis!"
 	},
 
 	"final_offer": {
 		"top_message": {
-			"highlight_1": "TODAYS SPEСIAL DISCOUNT ACTIVATED: ",
-			"regular_1": "Recieve ",
-			"regular_2": "1 free bottles with your order!"
+			"highlight_1": "DESCUENTO ESPECIAL ACTIVADO: ",
+			"regular_1": "Consigue ",
+			"regular_2": "1 bote gratis con tu pedido!"
 		},
 		"left_top_text": {
-			"regular": "Buy 1",
-			"top_index": "st",
-			"highlight": "get 2 for free."
+			"regular": "Compra 1 ",
+			"top_index": "",
+			"highlight": "llévate otro gratis!"
 		},
-		"top_text": "Protect yourself from aging!",
+		"top_text": "¡Protégete contra el envejecimiento!",
 		"center_text": {
-			"line_1": "Renew",
-			"line_2": "your youth!"
+			"line_1": "¡Renueva tu",
+			"line_2": "juventud!"
 		},
 		"after_price": "total",
-		"under_price": "Get a free bottle for starting today!"
+		"under_price": "Hoy te llevarás una botella gratis!"
 	},
 
 
