@@ -313,6 +313,9 @@ margin-top:20px;
 .pl .block3{
 	font-size: 34px;
 }
+.it .block3{
+	font-size: 33px;
+}
 .block3 span{
 font-size:50px;
 color:#0069b3;
@@ -331,6 +334,9 @@ letter-spacing:3px;
 }
 .pl .block3 span{
 	font-size: 37px;
+}
+.it .block3 span{
+	font-size: 41px;
 }
 .block5{
 float: right;
@@ -416,6 +422,9 @@ padding:10px 20px ;
 .pl .nagr span:first-child{
 	padding: 22px 21px;
 }
+.it .nagr span:first-child{
+	padding: 10px 16px;
+}
 .nagr span:last-child{
 background:url(../img/images/background-25.png) no-repeat;
 padding:19px 20px ;
@@ -432,6 +441,10 @@ padding:19px 20px ;
 }
 .pl .nagr span:last-child{
 	padding: 22px 20px;
+}
+.it .nagr span:last-child{
+	background: url(../img/images/background-24.png) no-repeat;
+	padding: 10px 20px;
 }
 .nagr span{
 display:inline-block;
@@ -679,6 +692,9 @@ line-height:73px;
 .es .span4{
 	font-size: 31px;
 }
+.it .span4{
+	font-size: 34px;
+}
 .block13{
 background: url(../img/images/background-6.png) right top no-repeat;
 padding-top: 25px;
@@ -913,6 +929,9 @@ margin-top:25px;
 .pl .span12{
 	font-size: 30px;
 }
+.it .span12{
+	font-size: 26px;
+}
 .span12 span{
 color: #d5135d;
 font-family: BJ;
@@ -926,6 +945,9 @@ padding-left: 10px;
 }
 .pl .span12 span{
 	font-size: 28px;
+}
+.it .span12 span{
+	font-size: 26px;
 }
 .span13{
 color:#232f48;
@@ -1159,6 +1181,9 @@ position: relative;
 .pl .block19 > div.span20{
 	font-size: 40px;
 }
+.it .block19 > div.span20{
+	font-size: 45px;
+}
 .block19{
 background: url(../img/images/background-13.jpg) no-repeat;
     max-width: 980px;
@@ -1200,6 +1225,9 @@ position: absolute;
 }
 .pl .block19 > div{
 	font-size: 14px;
+}
+.it .block19 > div{
+	font-size: 15px;
 }
 .block19 > div span{
 display:block;
@@ -1388,6 +1416,9 @@ font-size:16px;
 .pl .span26 .part9{
 	font-size: 11px;
 }
+.it .span26 .part9{
+	font-size: 15px;
+}
 .span26 .part0{
 position:relative;
 left:135px;
@@ -1405,6 +1436,9 @@ top:1px;
 .pl .span26 .part0{
 	font-size: 10px;
 	top: 8px;
+}
+.it .span26 .part0{
+	font-size: 13px;
 }
 .span26-7{
     right: 0px;
@@ -1446,6 +1480,9 @@ min-height:450px;
 .pl .span27{
 	font-size: 27px;
 }
+.it .span27{
+	font-size: 26px;
+}
 .span28 img{
 position:absolute;
 right:0;
@@ -1474,6 +1511,9 @@ padding-left:33px;
 margin-bottom:15px
 }
 .pl .span28 li{
+	font-size: 16px;
+}
+.it .span28 li{
 	font-size: 16px;
 }
 .span30{

@@ -33,7 +33,7 @@ gulp.task('jade', function () {
   return gulp.src('src/jade/*.jade')
     .pipe(data(function (file) {
       return JSON.parse(
-        fs.readFileSync('src/lang/pl.json')
+        fs.readFileSync('src/lang/it.json')
       );
     }))
     .pipe(jade({
