@@ -160,6 +160,9 @@ a:focus, a:active, a:visited {
 	padding-left: 30px;
 	margin-bottom: 1px;
 }
+.pl .choose ul li .choose-item-toptext1 {
+	font-size: 15px;
+}
 .choose .choose-item:nth-child(1)>.choose-item-top>.choose-item-toptext1 {
 	padding-left: 17px
 }
@@ -305,6 +308,9 @@ a:focus, a:active, a:visited {
 .fr .choose .choose-item .choose-item-advantages li {
 	font-size: 13px;
 }
+.pl .choose .choose-item .choose-item-advantages li {
+	font-size: 11px;
+}
 .choose .choose-item .choose-item-advantages li:before {
 	content: "";
 	position: absolute;
@@ -361,6 +367,9 @@ a:focus, a:active, a:visited {
 	background: url("../img/cross-icon.png") no-repeat
 }
 .es .choose-item-click .retail-price:after {
+	right: 63px;
+}
+.pl .choose-item-click .retail-price:after {
 	right: 63px;
 }
 .choose-item-click .price-wrap {
@@ -693,6 +702,10 @@ a:focus, a:active, a:visited {
 .es .next-btn {
 	font-size: 21px;
 }
+.pl .next-btn {
+	font-size: 14px;
+	padding-top: 10px;
+}
 .choose .next-btn span {
 	position: relative;
 	left: -3px;
@@ -846,6 +859,9 @@ padding-top:0px;
 .fr .payment-form .next-btn {
 	font-size: 20px;
 }
+.pl .payment-form .next-btn {
+	font-size: 18px;
+}
 .payment-form .next-btn .new-string {
 	font: 12px RobotoCondensedRegularItalic, sans-serif;
 	color: #fdf18d;
@@ -856,6 +872,9 @@ padding-top:0px;
 	font: 18px RobotoCondensedRegular, sans-serif;
 	color: #000000;
 	margin-bottom: 15px
+}
+.pl .payment-form .secure-under-button {
+	font-size: 16px;
 }
 .step2 {
 	margin-top: 15px;
@@ -970,6 +989,9 @@ padding-top:0px;
 	text-transform: uppercase;
 	padding-top: 10px
 }
+.pl .step2 .order-summury .order-summury-title, .step2 .payment .payment-title {
+	font-size: 28px;
+}
 .payment span {
 	display: block;
 	position: relative;
@@ -978,6 +1000,9 @@ padding-top:0px;
 	font: 16px RobotoCondensedRegularItalic, sans-serif;
 	color: #fcec70;
 	text-transform: none
+}
+.pl .payment span {
+	font-size: 13px;
 }
 .step2 ul {
 	list-style: none;
@@ -998,10 +1023,16 @@ padding-top:0px;
 .es .step2 .order-summury-item-title {
 	font-size: 17px;
 }
+.pl .step2 .order-summury-item-title {
+	font-size: 14px;
+}
 .step2 .order-summury-item-title .red {
 	font: 20px RobotoCondensedBold, sans-serif;
 	color: #9a1918;
 	border-bottom: 2px solid #9a1918
+}
+.pl .step2 .order-summury-item-title .red {
+	font-size: 18px;
 }
 .step2 .order-summury-item-slogan {
 	font: 14px RobotoCondensedLight, sans-serif;
@@ -1094,6 +1125,9 @@ padding-top:0px;
 .es .step2 .order-summury-item .choose-item-click .retail-price:after {
 	right: 27px;
 }
+.pl .step2 .order-summury-item .choose-item-click .retail-price:after {
+	right: 27px;
+}
 .step2 .order-summury-item .check-box {
 	position: absolute;
     bottom: -1px;
@@ -1179,6 +1213,10 @@ padding-top:0px;
 	bottom: -3px;
 	margin-bottom: -6px
 }
+.pl .step2 .order-summury-item.active .choose-item-click .per-bottle .new-string {
+	font-size: 14px;
+	bottom: -5px;
+}
 .step2 .order-summury-item:nth-child(1).active>.order-summury-item-link>.best-value {
 	position: absolute;
 	bottom: 6px;
@@ -1195,6 +1233,9 @@ padding-top:0px;
 }
 .es .step2 .order-summury-item:nth-child(1).active>.order-summury-item-link>.best-value {
 	padding: 2px 0 0 76px;
+}
+.pl .step2 .order-summury-item:nth-child(1).active>.order-summury-item-link>.best-value {
+	padding: 2px 0 0 70px;
 }
 .bottoms{
 position: absolute;
@@ -1235,6 +1276,9 @@ bottom: 12px;
 .es .reserved .order-summury .order-summury-title {
 	padding-top: 15px;
 	font-size: 33px;
+}
+.pl .reserved .order-summury .order-summury-title {
+	font-size: 27px;
 }
 .reserved .order-summury .order-summury-title .back-link {
 	position: absolute;
@@ -1431,6 +1475,9 @@ margin-bottom: 52px;
 .es .reserved .reserved-product .price-wrap {
 	margin-bottom: 20px;
 }
+.pl .reserved .reserved-product .price-wrap {
+	margin-bottom: 23px;
+}
 .reserved .reserved-product .price {
 	font: 36px RobotoCondensedBold, sans-serif;
 	color: #9a1818;
@@ -1459,6 +1506,9 @@ margin-bottom: 52px;
 .es .reserved .reserved-product .reserved-product-bottom .refund {
 	font-size: 15px;
 }
+.pl .reserved .reserved-product .reserved-product-bottom .refund {
+	font-size: 17px;
+}
 .reserved .reserved-product .reserved-product-bottom .refund:before {
 	position: absolute;
 	content: "";
@@ -1475,7 +1525,8 @@ margin-bottom: 52px;
 	background: url("../img/lang/es/included-icon.png") no-repeat
 }
 .pl .reserved .reserved-product .reserved-product-bottom .refund:before {
-	background: url("../img/lang/pl/included-icon.png") no-repeat
+	background: url("../img/lang/pl/included-icon.png") no-repeat;
+	width: 130px;
 }
 .it .reserved .reserved-product .reserved-product-bottom .refund:before {
 	background: url("../img/lang/it/included-icon.png") no-repeat
@@ -1496,6 +1547,9 @@ margin-bottom: 52px;
 .es .reserved .reserved-product .reserved-product-bottom .ordering {
 	bottom: 0px;
 	right: 34px;
+}
+.pl .reserved .reserved-product .reserved-product-bottom .ordering {
+	font-size: 13px;
 }
 .reserved .reserved-product .reserved-product-bottom .ordering:before {
 	position: absolute;
@@ -1528,6 +1582,9 @@ margin-bottom: 52px;
 .es .reserved .guarantee-text-title {
 	font-size: 12px;
 }
+.pl .reserved .guarantee-text-title {
+	font-size: 11px;
+}
 .reserved .guarantee-text {
 	font: 14px RobotoCondensedRegular, sans-serif;
 	color: #5d6062;
@@ -1535,6 +1592,9 @@ margin-bottom: 52px;
 }
 .es .reserved .guarantee-text {
 	font-size: 12px;
+}
+.pl .reserved .guarantee-text {
+	font-size: 13px;
 }
 .reserved .guarantee:before {
 	position: absolute;
@@ -1564,6 +1624,9 @@ margin-bottom: 52px;
 }
 .es .reserved .guarantee .guarantee-position {
 	padding-left: 247px;
+}
+.pl .reserved .guarantee .guarantee-position {
+	padding-left: 284px;
 }
 .reserved .guarantee .guarantee-name:before {
 	position: absolute;
@@ -1615,6 +1678,9 @@ margin-bottom: 52px;
 .es .reserved .best-price .best-price_text {
 	padding-top: 9px;
 }
+.pl .reserved .best-price .best-price_text {
+	width: 220px;
+}
 .reserved .best-price .pay-timer-wrap {
 	float: right;
 	width: 128px;
@@ -1634,6 +1700,10 @@ margin-bottom: 52px;
 .es .reserved .best-price .pay-timer-wrap .pay-timer-title {
 	font-size: 10px;
 	padding: 11px 0 0 0;
+}
+.pl .reserved .best-price .pay-timer-wrap .pay-timer-title {
+	font-size: 11px;
+	padding: 13px 0 0 0;
 }
 .reserved .best-price .pay-timer-wrap .pay-timer {
 	position: relative;
@@ -1747,6 +1817,9 @@ margin-bottom: 52px;
 .step3 .order-summury-item:nth-child(1).active>.order-summury-item-link>.best-value {
 	padding: 4px 0 0 81px
 }
+.pl .step3 .order-summury-item:nth-child(1).active>.order-summury-item-link>.best-value {
+	padding: 2px 0 0 116px;
+}
 .step3 .order-summury-item .choose-item-click, .step3 .order-summury-item.active .choose-item-click {
 	top: 80px
 }
@@ -1776,6 +1849,9 @@ margin-bottom: 52px;
 .fr .step3 .payment .payment-title {
 	padding-top: 20px;
 	font-size: 23px;
+}
+.pl .step3 .payment .payment-title {
+	padding-top: 18px;
 }
 .step3 .for-weeks {
 	position: absolute;
@@ -1847,6 +1923,10 @@ margin-bottom: 52px;
 .es .step4 .order-summury .satisfaction-guarantee {
 	font-size: 15px;
 	padding: 18px 0 0 9px;
+}
+.pl .step4 .order-summury .satisfaction-guarantee {
+	padding: 3px 0 0 9px;
+	width: 220px;
 }
 .step4 .order-summury .satisfaction-guarantee sup{
 	text-transform: lowercase;
