@@ -338,6 +338,9 @@ letter-spacing:3px;
 .it .block3 span{
 	font-size: 41px;
 }
+.de .block3 span{
+	font-size: 32px;
+}
 .block5{
 float: right;
     position: relative;
@@ -425,6 +428,9 @@ padding:10px 20px ;
 .it .nagr span:first-child{
 	padding: 10px 16px;
 }
+.de .nagr span:first-child{
+	font-size: 10px;
+}
 .nagr span:last-child{
 background:url(../img/images/background-25.png) no-repeat;
 padding:19px 20px ;
@@ -445,6 +451,11 @@ padding:19px 20px ;
 .it .nagr span:last-child{
 	background: url(../img/images/background-24.png) no-repeat;
 	padding: 10px 20px;
+}
+.de .nagr span:last-child{
+	font-size: 9px;
+	padding: 20px 17px;
+	background: url(../img/images/background-24.png) no-repeat;
 }
 .nagr span{
 display:inline-block;
@@ -524,6 +535,9 @@ text-shadow: 1px 2px 3px rgba(0,0,0,.5);
 .pl .span2{
 	font-size: 25px;
 }
+.de .span2{
+	font-size: 25px;
+}
 .span3{
 text-align:right;
 padding-right:25px;
@@ -568,6 +582,9 @@ padding-left:75px;
 }
 .es .block8 ul li{
 	font-size: 17px;
+}
+.de .block8 ul li{
+	font-size: 16px;
 }
 .block8 ul li:first-child{
 background:url(../img/images/icon-13.png) left top no-repeat;
@@ -694,6 +711,9 @@ line-height:73px;
 }
 .it .span4{
 	font-size: 34px;
+}
+.de .span4{
+	font-size: 25px;
 }
 .block13{
 background: url(../img/images/background-6.png) right top no-repeat;
@@ -932,6 +952,9 @@ margin-top:25px;
 .it .span12{
 	font-size: 26px;
 }
+.de .span12{
+	font-size: 22px;
+}
 .span12 span{
 color: #d5135d;
 font-family: BJ;
@@ -949,6 +972,9 @@ padding-left: 10px;
 .it .span12 span{
 	font-size: 26px;
 }
+.de .span12 span{
+	font-size: 24px;
+}
 .span13{
 color:#232f48;
 font-size:16px;
@@ -960,6 +986,9 @@ font-size:16px;
 	font-size: 15px;
 }
 .pl .span13{
+	font-size: 15px;
+}
+.de .span13{
 	font-size: 15px;
 }
 .block16{
@@ -1058,6 +1087,9 @@ float:left;
 }
 .fr .span15{
 	font-size: 17px;
+}
+.de .span15{
+	font-size: 16px;
 }
 .block17 .line-block{
 display:block;
@@ -1184,6 +1216,9 @@ position: relative;
 .it .block19 > div.span20{
 	font-size: 45px;
 }
+.de .block19 > div.span20{
+	font-size: 45px;
+}
 .block19{
 background: url(../img/images/background-13.jpg) no-repeat;
     max-width: 980px;
@@ -1202,6 +1237,9 @@ padding-bottom:30px;
 padding-top:18px;
 margin-left: 152px;
 margin-top: 8px;
+}
+.de .span21-0 .part1{
+	font-size: 11px;
 }
 .span21-0:before{
 background:url(../img/images/background-14.png) no-repeat;
@@ -1227,6 +1265,9 @@ position: absolute;
 	font-size: 14px;
 }
 .it .block19 > div{
+	font-size: 15px;
+}
+.de .block19 > div{
 	font-size: 15px;
 }
 .block19 > div span{
@@ -1256,6 +1297,10 @@ padding-top:7px;
 }
 .pl .span21 .part2{
 	font-size: 14px;
+}
+.de .span21 .part2{
+	font-size: 11px;
+	padding-top: 10px;
 }
 .span21 .part2:before{
 background:url(../img/images/background-15.png) no-repeat;
@@ -1316,6 +1361,10 @@ margin-right:5px;
 	margin-right: 0;
 	margin-top: 12px;
 }
+.de .span22 .part4{
+	font-size: 13px;
+	margin-top: 10px;
+}
 .span22 .part3{
 position:relative;
 left:-35px;
@@ -1367,6 +1416,9 @@ transform: rotate(2grad);
 }
 .pl .span25 .part8{
 	font-size: 14px;
+}
+.de .span25 .part8{
+	font-size: 15px;
 }
 .span25 .part8:before{
 background:url(../img/images/background-20.png) no-repeat;
@@ -1440,6 +1492,10 @@ top:1px;
 .it .span26 .part0{
 	font-size: 13px;
 }
+.de .span26 .part0{
+	font-size: 12px;
+	top: 4px;
+}
 .span26-7{
     right: 0px;
     margin-right: 157px;
@@ -1483,6 +1539,9 @@ min-height:450px;
 .it .span27{
 	font-size: 26px;
 }
+.de .span27{
+	font-size: 27px;
+}
 .span28 img{
 position:absolute;
 right:0;
@@ -1498,6 +1557,9 @@ font-size:18px;
 color:#232f48;
 margin-top:30px;
 margin-right: 37px;
+}
+.de .span28{
+	font-size: 14px;
 }
 .span28 ul,
 .span28 li{
@@ -1610,6 +1672,10 @@ line-height:18px;
 .pl .text1,
 .text2{
 	font-size: 12px;
+}
+.de .text1,
+.text2{
+	font-size: 11px;
 }
 .text2{
 float:left;
